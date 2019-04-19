@@ -3,6 +3,8 @@ import util.FileReader;
 import util.Util;
 
 import java.io.IOException;
+import java.util.Arrays;
+import java.util.List;
 import java.util.Map;
 
 public class Model {
@@ -51,7 +53,13 @@ public class Model {
         double correct = 0;
         for (int i = 0; i < disSymptLinks.length; i++) {
             int[] row = disSymptLinks[i];
-            int resultIndex = Util.getIndexOfLargest(classifier.calculateSimilarities(row, disSymptLinks, features));
+            int resultIndex = Util.getIndexOfLargest(
+                    classifier.calculateSimilarities(
+                            row,
+                            disSymptLinks,
+                            features
+                    )
+            );
             if (i == resultIndex) correct++;
         }
         return correct / diseasesIds.size();
@@ -59,7 +67,59 @@ public class Model {
 
     // jaccard, rows with errors, customized features
     public double testRandomizedJaccard(int errorsAmnt) {
-        //todo finish
+        Classifier classifier = new Classifier(new JaccardSimilarity());
+        int[][] customizedFeatures = getCustomizedFeatures(disSymptLinks);
+        //todo randomize rows symptom values
+
+        //id of test - id of result
+        double correct = 0;
+        for (int i = 0; i < disSymptLinks.length; i++) {
+            int[] row = disSymptLinks[i];
+            int resultIndex = Util.getIndexOfLargest(
+                    classifier.calculateSimilarities(
+                            row,
+                            disSymptLinks,
+                            customizedFeatures[i]
+                    )
+            );
+            if (i == resultIndex) correct++;
+        }
+        return correct / diseasesIds.size();
+    }
+
+    private int[][] getCustomizedFeatures(int[][] disSymptLinks) {
+        int featureSize = 12;
+
+        int[][] customizedFeatures = new int[disSymptLinks.length][featureSize];
+
+        for (int i = 0; i < disSymptLinks.length; i++) {
+            int[] features = new int[featureSize];
+            int[] row = disSymptLinks[i];
+            int k = 0;
+
+            for (int j = 0; j < row.length && k < 7; j++) {
+                if (row[j] == 1) {
+                    features[k] = j;
+                    k++;
+                }
+            }
+
+            while (k < featureSize) {
+                int j = Util.getRandomNumberInRange(0, featureSize - 1);
+
+                if (Arrays.stream(features).noneMatch(f -> f == j)
+                        && row[j] == 1) {
+                    continue;
+                }
+
+                features[k] = j;
+                k++;
+            }
+
+            customizedFeatures[i] = features;
+        }
+
+        return customizedFeatures;
     }
 
     public static class Builder {
