@@ -1,0 +1,322 @@
+Index	Symptom
+0	Illusions
+1	Somatosensory Disorders
+2	Catalepsy
+3	Ecchymosis
+4	Olfaction Disorders
+5	Oral Hemorrhage
+6	Sweating Sickness
+7	Gait Disorders, Neurologic
+8	Muscle Spasticity
+9	Vertigo
+10	Reticulocytosis
+11	Hearing Loss, Unilateral
+12	Dyslexia, Acquired
+13	Gerstmann Syndrome
+14	Sarcopenia
+15	Athetosis
+16	Hemoptysis
+17	Reflex, Abnormal
+18	Obesity, Morbid
+19	Aphasia, Conduction
+20	Tetany
+21	Vision Disorders
+22	Pain, Referred
+23	Spasm
+24	Diplopia
+25	Fetal Hypoxia
+26	Pupil Disorders
+27	Deafness
+28	Sleep Disorders
+29	Fasciculation
+30	Scotoma
+31	Oral Manifestations
+32	Shoulder Pain
+33	Phantom Limb
+34	Speech Disorders
+35	Hyperacusis
+36	Ophthalmoplegia, Chronic Progressive External
+37	Bulimia
+38	Hypocapnia
+39	Eye Hemorrhage
+40	Color Vision Defects
+41	Hyperventilation
+42	Dysarthria
+43	Deaf-Blind Disorders
+44	Encopresis
+45	Jaundice, Obstructive
+46	Fetal Distress
+47	Muscle Rigidity
+48	Aphasia, Wernicke
+49	Dyspepsia
+50	Hearing Loss, High-Frequency
+51	Hyperkinesis
+52	Amnesia, Anterograde
+53	Thinness
+54	Hearing Loss, Sensorineural
+55	Fetal Macrosomia
+56	Mouth Breathing
+57	Dyspnea
+58	Meningism
+59	Urinary Bladder, Neurogenic
+60	Renal Colic
+61	Amnesia
+62	Apraxias
+63	Echolalia
+64	Hearing Loss, Central
+65	Urinary Incontinence, Stress
+66	Edema
+67	Amnesia, Transient Global
+68	Myoclonus
+69	Neurologic Manifestations
+70	Eructation
+71	Ageusia
+72	Respiratory Paralysis
+73	Flank Pain
+74	Hoarseness
+75	Fever
+76	Anomia
+77	Language Disorders
+78	Persistent Vegetative State
+79	Weight Loss
+80	Morning Sickness
+81	Muscle Weakness
+82	Prostatism
+83	Articulation Disorders
+84	Neuralgia
+85	Hemifacial Spasm
+86	Oliguria
+87	Dysmenorrhea
+88	Hematemesis
+89	Proteinuria
+90	Nocturia
+91	Usher Syndromes
+92	Paresthesia
+93	Albuminuria
+94	Cardiac Output, Low
+95	Paraplegia
+96	Trismus
+97	Hypoventilation
+98	Urinoma
+99	Emaciation
+100	Hearing Loss, Functional
+101	Psychomotor Agitation
+102	Neuralgia, Postherpetic
+103	Vomiting, Anticipatory
+104	Neurobehavioral Manifestations
+105	Prosopagnosia
+106	Pelvic Pain
+107	Agnosia
+108	Striae Distensae
+109	Supranuclear Palsy, Progressive
+110	Flushing
+111	Gait Ataxia
+112	Syncope, Vasovagal
+113	Pain, Postoperative
+114	Edema, Cardiac
+115	Hemianopsia
+116	Quadriplegia
+117	Nausea
+118	Miosis
+119	Horner Syndrome
+120	Gait Apraxia
+121	Pseudobulbar Palsy
+122	Amaurosis Fugax
+123	Paraparesis
+124	Aerophagy
+125	Hearing Loss
+126	Hypothermia
+127	Paraparesis, Spastic
+128	Myokymia
+129	Taste Disorders
+130	Consciousness Disorders
+131	Pruritus
+132	Apraxia, Ideomotor
+133	Cerebrospinal Fluid Otorrhea
+134	Hyperalgesia
+135	Respiratory Aspiration
+136	Mobility Limitation
+137	Pain
+138	Alexia, Pure
+139	Dyslexia
+140	Aphasia, Broca
+141	Abdomen, Acute
+142	Respiratory Sounds
+143	Earache
+144	Hydrops Fetalis
+145	Purpura, Thrombotic Thrombocytopenic
+146	Sciatica
+147	Acute Coronary Syndrome
+148	Anisocoria
+149	Feminization
+150	Myotonia
+151	Angina Pectoris
+152	Cachexia
+153	Reflex, Babinski
+154	Intermittent Claudication
+155	Birth Weight
+156	Mental Fatigue
+157	Auditory Perceptual Disorders
+158	Purpura, Hyperglobulinemic
+159	Chest Pain
+160	Eye Manifestations
+161	Cerebrospinal Fluid Rhinorrhea
+162	Pain, Intractable
+163	Hypergammaglobulinemia
+164	Hallucinations
+165	Ophthalmoplegia
+166	Decerebrate State
+167	Pallor
+168	Postoperative Nausea and Vomiting
+169	Alien Hand Syndrome
+170	Delirium
+171	Coma
+172	Diarrhea, Infantile
+173	Anorexia
+174	Angina Pectoris, Variant
+175	Blindness, Cortical
+176	Synkinesis
+177	Overweight
+178	Back Pain
+179	Facial Paralysis
+180	Cafe-au-Lait Spots
+181	Apnea
+182	Torticollis
+183	Sneezing
+184	Tonic Pupil
+185	Metatarsalgia
+186	Ataxia
+187	Glossalgia
+188	Dysphonia
+189	Vocal Cord Paralysis
+190	Purpura, Thrombocytopenic
+191	Cerebellar Ataxia
+192	Obesity
+193	Unconsciousness
+194	Vision, Low
+195	Hearing Loss, Sudden
+196	Snoring
+197	Sensation Disorders
+198	Aphonia
+199	Labor Pain
+200	Hyperoxia
+201	Aphasia
+202	Muscle Cramp
+203	Polyuria
+204	Purpura, Thrombocytopenic, Idiopathic
+205	Sleep Deprivation
+206	Fever of Unknown Origin
+207	Dyskinesias
+208	Skin Manifestations
+209	Body Weight
+210	Hyperesthesia
+211	Space Motion Sickness
+212	Mental Retardation
+213	Abdominal Pain
+214	Muscle Hypertonia
+215	Heart Murmurs
+216	Hiccup
+217	Hypesthesia
+218	Coprophagia
+219	Syncope
+220	Piriformis Muscle Syndrome
+221	Pseudophakia
+222	Amblyopia
+223	Hearing Loss, Mixed Conductive-Sensorineural
+224	Photophobia
+225	Cyanosis
+226	Mutism
+227	Symptom
+228	Gastroparesis
+229	Hyperphagia
+230	Seizures
+231	Eye Pain
+232	Cardiac Output, High
+233	Dysgeusia
+234	Orthostatic Intolerance
+235	Agraphia
+236	Hypokinesia
+237	Low Back Pain
+238	Aging, Premature
+239	Memory Disorders
+240	Gagging
+241	Purpura
+242	Language Development Disorders
+243	Blindness
+244	Virilism
+245	Dystonia
+246	Presbycusis
+247	Dyspnea, Paroxysmal
+248	Akathisia, Drug-Induced
+249	Toothache
+250	Stupor
+251	Arthralgia
+252	Chorea
+253	Hyperemesis Gravidarum
+254	Catatonia
+255	Systolic Murmurs
+256	Hypercapnia
+257	Hypercalciuria
+258	Livedo Reticularis
+259	Hearing Disorders
+260	Hot Flashes
+261	Tinea Pedis
+262	Halitosis
+263	Weight Gain
+264	Motion Sickness
+265	Constipation
+266	Urinary Incontinence
+267	Colic
+268	Heartburn
+269	Brown-Sequard Syndrome
+270	Anoxia
+271	Hirsutism
+272	Fetal Weight
+273	Diarrhea
+274	Fatigue
+275	Slit Ventricle Syndrome
+276	Necrolytic Migratory Erythema
+277	Asthenia
+278	Facial Pain
+279	Hearing Loss, Conductive
+280	Primary Progressive Nonfluent Aphasia
+281	Paresis
+282	Lethargy
+283	Communication Disorders
+284	Cheyne-Stokes Respiration
+285	Perceptual Disorders
+286	Psychomotor Disorders
+287	Headache
+288	Hearing Loss, Bilateral
+289	Stuttering
+290	Muscular Atrophy
+291	Learning Disorders
+292	Confusion
+293	Voice Disorders
+294	Susac Syndrome
+295	Neck Pain
+296	Dizziness
+297	Hemoglobinuria
+298	Chills
+299	Psychophysiologic Disorders
+300	Vomiting
+301	Hemiplegia
+302	Purpura, Schoenlein-Henoch
+303	Muscle Hypotonia
+304	Flatulence
+305	Paralysis
+306	Tinnitus
+307	Jaundice
+308	Tics
+309	Amnesia, Retrograde
+310	Tremor
+311	Hearing Loss, Noise-Induced
+312	Aphasia, Primary Progressive
+313	Cough
+314	Urinary Bladder, Overactive
+315	Waterhouse-Friderichsen Syndrome
+316	Angina, Unstable
+317	Korsakoff Syndrome
+318	Urinary Incontinence, Urge
+319	Dysuria
+320	Purpura Fulminans

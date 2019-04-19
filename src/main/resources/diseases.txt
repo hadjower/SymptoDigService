@@ -1,0 +1,2747 @@
+Index	Disease
+0	Hepatitis, Autoimmune
+1	Lymphangiectasis, Intestinal
+2	Neuroectodermal Tumors, Primitive
+3	Sleep Apnea Syndromes
+4	Sickle Cell Trait
+5	Eye Neoplasms
+6	Vertigo
+7	Brain Neoplasms
+8	Corneal Neovascularization
+9	Ureteral Obstruction
+10	Adenocarcinoma, Bronchiolo-Alveolar
+11	Cervical Rib Syndrome
+12	Bardet-Biedl Syndrome
+13	Diplopia
+14	Jaw Abnormalities
+15	Carotid-Cavernous Sinus Fistula
+16	Endometritis
+17	Urinary Bladder Calculi
+18	Intestinal Obstruction
+19	Pneumatosis Cystoides Intestinalis
+20	Embolism, Fat
+21	Lung Abscess
+22	Siderosis
+23	Epilepsies, Myoclonic
+24	Scotoma
+25	Basal Ganglia Diseases
+26	Dental Occlusion, Traumatic
+27	Cystinuria
+28	Encephalitis, Tick-Borne
+29	Cholecystitis, Acute
+30	Parkinson Disease, Postencephalitic
+31	Hemothorax
+32	Medulloblastoma
+33	Waldenstrom Macroglobulinemia
+34	Spermatic Cord Torsion
+35	Polyps
+36	Legg-Perthes Disease
+37	Chronic Disease
+38	Community-Acquired Infections
+39	Urethritis
+40	Bronchial Fistula
+41	Encopresis
+42	Splenic Neoplasms
+43	Anemia, Hypochromic
+44	Fatty Liver, Alcoholic
+45	Dysgerminoma
+46	Syphilis, Cardiovascular
+47	Jaundice, Obstructive
+48	Anodontia
+49	Diverticulum, Colon
+50	Burning Mouth Syndrome
+51	Common Variable Immunodeficiency
+52	Hyperkinesis
+53	Noonan Syndrome
+54	Arthritis
+55	Adenoma
+56	Histiocytic Necrotizing Lymphadenitis
+57	Overnutrition
+58	Ossification of Posterior Longitudinal Ligament
+59	Prosthesis-Related Infections
+60	Ehrlichiosis
+61	Dyspnea
+62	Sex Chromosome Aberrations
+63	Irritable Bowel Syndrome
+64	Mediastinitis
+65	Diffuse Axonal Injury
+66	Pseudarthrosis
+67	Radius Fractures
+68	Esophageal Motility Disorders
+69	Hyperinsulinism
+70	Scleroderma, Diffuse
+71	Epilepsy, Temporal Lobe
+72	Sturge-Weber Syndrome
+73	Coloboma
+74	Inflammation
+75	Hyperostosis Frontalis Interna
+76	Anomia
+77	Blood Protein Disorders
+78	Achondroplasia
+79	Persistent Vegetative State
+80	Epiglottitis
+81	Bipolar Disorder
+82	Congenital Disorders of Glycosylation
+83	Mucolipidoses
+84	Neuronal Ceroid-Lipofuscinoses
+85	Duodenitis
+86	Aneurysm, False
+87	Erythromelalgia
+88	Coronary Thrombosis
+89	Abetalipoproteinemia
+90	Diverticulitis, Colonic
+91	Hypothalamic Diseases
+92	Pulmonary Veno-Occlusive Disease
+93	Mesothelioma
+94	Cholesteatoma, Middle Ear
+95	Hepatopulmonary Syndrome
+96	Burns, Chemical
+97	Cranial Nerve Diseases
+98	Panniculitis, Nodular Nonsuppurative
+99	Pantothenate Kinase-Associated Neurodegeneration
+100	Neoplasms, Second Primary
+101	Alphavirus Infections
+102	Psychomotor Agitation
+103	Arthritis, Juvenile Rheumatoid
+104	Salpingitis
+105	Pleural Neoplasms
+106	Femur Head Necrosis
+107	Carcinoma, Ductal, Breast
+108	MPTP Poisoning
+109	Obesity, Abdominal
+110	Gastric Outlet Obstruction
+111	Lymphocytic Choriomeningitis
+112	POEMS Syndrome
+113	Labyrinthitis
+114	Causalgia
+115	Syncope, Vasovagal
+116	Systemic Inflammatory Response Syndrome
+117	Albinism
+118	Autistic Disorder
+119	Hyperthyroidism
+120	Hyphema
+121	Maxillary Sinusitis
+122	Fetal Growth Retardation
+123	Post-Concussion Syndrome
+124	Pain, Postoperative
+125	Maxillary Neoplasms
+126	Quadriplegia
+127	Horner Syndrome
+128	Rubella Syndrome, Congenital
+129	Arthritis, Infectious
+130	Adenoma, Bile Duct
+131	Pseudobulbar Palsy
+132	Hypoalbuminemia
+133	Facial Neuralgia
+134	Rh Isoimmunization
+135	Stomatitis
+136	Facial Dermatoses
+137	Pseudotumor Cerebri
+138	Carbon Tetrachloride Poisoning
+139	Creutzfeldt-Jakob Syndrome
+140	Erythema
+141	Intestinal Neoplasms
+142	Hypertrophy
+143	Coronary Vessel Anomalies
+144	Carcinoma, Basal Cell
+145	Myopia
+146	Klinefelter Syndrome
+147	Leprosy
+148	Helicobacter Infections
+149	Angiolymphoid Hyperplasia with Eosinophilia
+150	Bronchopulmonary Dysplasia
+151	Chronobiology Disorders
+152	Tooth, Impacted
+153	Eating Disorders
+154	Ventricular Outflow Obstruction
+155	Pleural Effusion, Malignant
+156	Neurotic Disorders
+157	Alexia, Pure
+158	Granuloma, Foreign-Body
+159	Nervous System Neoplasms
+160	Goldenhar Syndrome
+161	Demyelinating Diseases
+162	Encephalomalacia
+163	Protein-Losing Enteropathies
+164	Hemolytic-Uremic Syndrome
+165	Premature Birth
+166	Phobic Disorders
+167	Myotonia
+168	Ductus Arteriosus, Patent
+169	Duodenal Neoplasms
+170	Synostosis
+171	Spinal Muscular Atrophies of Childhood
+172	Nephritis, Interstitial
+173	Pressure Ulcer
+174	Lateral Medullary Syndrome
+175	Riboflavin Deficiency
+176	Mood Disorders
+177	Heart Aneurysm
+178	Mouth Neoplasms
+179	Hyperglycinemia, Nonketotic
+180	Myasthenic Syndromes, Congenital
+181	Eyelid Neoplasms
+182	Heredodegenerative Disorders, Nervous System
+183	Vesico-Ureteral Reflux
+184	Auditory Perceptual Disorders
+185	Pain, Intractable
+186	Neuromuscular Junction Diseases
+187	Vaginal Diseases
+188	Ophthalmoplegia
+189	Ovarian Diseases
+190	Emphysema
+191	Thyroglossal Cyst
+192	Mouth Diseases
+193	Water-Electrolyte Imbalance
+194	Pleural Diseases
+195	Osteolysis
+196	Myocardial Ischemia
+197	Albinism, Oculocutaneous
+198	Facial Paralysis
+199	Hepatitis
+200	Diurnal Enuresis
+201	Fetal Membranes, Premature Rupture
+202	Lipoid Proteinosis of Urbach and Wiethe
+203	Foreign-Body Reaction
+204	Hyperoxaluria
+205	Vocal Cord Paralysis
+206	Bone Cysts, Aneurysmal
+207	Fanconi Syndrome
+208	Parvoviridae Infections
+209	Paraphilias
+210	Thiamine Deficiency
+211	Leukopenia
+212	Gastrointestinal Hemorrhage
+213	Status Epilepticus
+214	Spondylosis
+215	Rickettsia Infections
+216	Skin Diseases, Vascular
+217	Tooth Erosion
+218	Nystagmus, Pathologic
+219	Central Nervous System Vascular Malformations
+220	Phenylketonuria, Maternal
+221	Morphine Dependence
+222	Soft Tissue Neoplasms
+223	Leiomyosarcoma
+224	Aphasia
+225	Renal Artery Obstruction
+226	Neoplasms, Hormone-Dependent
+227	Beckwith-Wiedemann Syndrome
+228	Dermatitis, Exfoliative
+229	Xanthomatosis, Cerebrotendinous
+230	Angioid Streaks
+231	IgG Deficiency
+232	Anemia, Sickle Cell
+233	Hyperesthesia
+234	Hypernatremia
+235	Erythema Nodosum
+236	Hyaline Membrane Disease
+237	Choristoma
+238	Trypanosomiasis, African
+239	Angiokeratoma
+240	Migraine with Aura
+241	Hemorrhage
+242	Self Mutilation
+243	Tauopathies
+244	Cryptosporidiosis
+245	Prostatic Neoplasms
+246	Menkes Kinky Hair Syndrome
+247	Eunuchism
+248	Gastric Dilatation
+249	Heart Septal Defects, Atrial
+250	Amblyopia
+251	Amphetamine-Related Disorders
+252	Otitis Media
+253	Zollinger-Ellison Syndrome
+254	Acrodermatitis
+255	Gastroparesis
+256	Alcoholic Intoxication
+257	Leukemia, Myeloid
+258	Pemphigus
+259	Actinomycosis
+260	Neoplasms, Unknown Primary
+261	Intestinal Pseudo-Obstruction
+262	Obstetric Labor Complications
+263	Diabetes Mellitus
+264	Hypoglycemia
+265	Hematoma, Subdural, Acute
+266	Onychomycosis
+267	Bone Diseases, Metabolic
+268	Sprains and Strains
+269	Hypercalcemia
+270	Hemangioma, Cavernous, Central Nervous System
+271	Memory Disorders
+272	Ascorbic Acid Deficiency
+273	Spasms, Infantile
+274	Heart Septal Defects, Ventricular
+275	Opioid-Related Disorders
+276	Conversion Disorder
+277	Glomerulosclerosis, Focal Segmental
+278	Dystonia
+279	Cerebral Palsy
+280	Abdominal Neoplasms
+281	Acid-Base Imbalance
+282	Pheochromocytoma
+283	Spinocerebellar Degenerations
+284	Pancreatic Fistula
+285	Arthralgia
+286	Drug Hypersensitivity
+287	Muscular Dystrophies, Limb-Girdle
+288	Acanthosis Nigricans
+289	Tuberculosis, Hepatic
+290	Intestinal Fistula
+291	Retinopathy of Prematurity
+292	Brain Infarction
+293	Skin Diseases, Parasitic
+294	Myotonia Congenita
+295	Temporomandibular Joint Disorders
+296	Medullary Sponge Kidney
+297	Ileus
+298	Anus, Imperforate
+299	Cranial Nerve Neoplasms
+300	Heart Failure
+301	Epidermal Cyst
+302	Liver Cirrhosis, Biliary
+303	Immune Complex Diseases
+304	Xanthomatosis
+305	Altitude Sickness
+306	Tooth Loss
+307	Hemoglobin SC Disease
+308	Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+309	Diabetic Coma
+310	Epidural Abscess
+311	Respiration Disorders
+312	Dermatitis, Seborrheic
+313	Mercury Poisoning
+314	Facial Nerve Injuries
+315	Sphenoid Sinusitis
+316	Sudden Infant Death
+317	Esophageal Diseases
+318	Spastic Paraplegia, Hereditary
+319	Bacteroides Infections
+320	Plant Poisoning
+321	Androgen-Insensitivity Syndrome
+322	Lens Subluxation
+323	Intervertebral Disk Degeneration
+324	Esophagitis, Peptic
+325	Mycoplasma Infections
+326	Tachycardia, Paroxysmal
+327	Hemangioma, Capillary
+328	Silicosis
+329	Anemia, Macrocytic
+330	Fecal Impaction
+331	Jaundice
+332	Eye Infections, Parasitic
+333	Laryngeal Diseases
+334	Metabolic Diseases
+335	Diphtheria
+336	Dental Plaque
+337	Hypotension
+338	Personality Disorders
+339	Blepharoptosis
+340	Calciphylaxis
+341	Rheumatic Heart Disease
+342	Uterine Hemorrhage
+343	Erythema Infectiosum
+344	Lithiasis
+345	Waterhouse-Friderichsen Syndrome
+346	Humeral Fractures
+347	Insect Bites and Stings
+348	Lung Diseases, Interstitial
+349	Wilms Tumor
+350	Athletic Injuries
+351	Scalp Dermatoses
+352	Urolithiasis
+353	Pregnancy Complications
+354	Ecchymosis
+355	Fibrosarcoma
+356	Liver Failure
+357	Trigeminal Neuralgia
+358	Athetosis
+359	Aortic Aneurysm, Thoracic
+360	Paralysis, Obstetric
+361	Enteritis
+362	Combat Disorders
+363	Myasthenia Gravis
+364	Neutropenia
+365	Multiple Personality Disorder
+366	Otitis Media with Effusion
+367	Anterior Spinal Artery Syndrome
+368	Ankylosis
+369	Thalamic Diseases
+370	Duodenal Obstruction
+371	Nephritis, Hereditary
+372	Neuroma
+373	Hand Deformities, Acquired
+374	Cri-du-Chat Syndrome
+375	Pulmonary Heart Disease
+376	Orbital Neoplasms
+377	Gliosis
+378	Hyperbilirubinemia, Neonatal
+379	Peutz-Jeghers Syndrome
+380	Acidosis, Renal Tubular
+381	Bronchial Spasm
+382	Pre-Eclampsia
+383	Diabetic Angiopathies
+384	Osteoarthritis
+385	Thromboangiitis Obliterans
+386	Facial Asymmetry
+387	Heroin Dependence
+388	Bronchopulmonary Sequestration
+389	Urogenital Abnormalities
+390	Nose Diseases
+391	Campylobacter Infections
+392	Schistosomiasis haematobia
+393	Lung Neoplasms
+394	Burns, Electric
+395	Peritonsillar Abscess
+396	Dwarfism
+397	Tonsillitis
+398	Plaque, Amyloid
+399	Meningism
+400	Adrenal Cortex Diseases
+401	Cardiac Tamponade
+402	Subarachnoid Hemorrhage
+403	Barrett Esophagus
+404	Lupus Vasculitis, Central Nervous System
+405	Microphthalmos
+406	Sarcoma
+407	Maxillofacial Injuries
+408	Pulmonary Disease, Chronic Obstructive
+409	Klippel-Feil Syndrome
+410	Retinal Vein Occlusion
+411	Foot Deformities, Congenital
+412	Histiocytosis, Langerhans-Cell
+413	Carcinoma, Adenoid Cystic
+414	Embolism
+415	Ichthyosis
+416	Embryo Loss
+417	Esophageal Perforation
+418	Carbohydrate Metabolism, Inborn Errors
+419	Retinitis
+420	Binge-Eating Disorder
+421	Joint Instability
+422	Methemoglobinemia
+423	Hemifacial Spasm
+424	Ependymoma
+425	Alkalosis
+426	Meningeal Neoplasms
+427	Craniosynostoses
+428	Anemia, Pernicious
+429	Empyema, Subdural
+430	Familial Mediterranean Fever
+431	Uniparental Disomy
+432	Scleritis
+433	Aortic Valve Insufficiency
+434	Nail Diseases
+435	Parotid Neoplasms
+436	Vascular Malformations
+437	Enterocolitis, Necrotizing
+438	Keratoconus
+439	Hearing Loss, Functional
+440	Heart Injuries
+441	Alcohol-Related Disorders
+442	Spinal Fractures
+443	Arterio-Arterial Fistula
+444	Rheumatic Diseases
+445	Tuberculosis, Laryngeal
+446	Multiple Myeloma
+447	Dumping Syndrome
+448	Adenoma, Islet Cell
+449	Disease Susceptibility
+450	Retinal Necrosis Syndrome, Acute
+451	Reperfusion Injury
+452	Agammaglobulinemia
+453	Melanoma
+454	Disseminated Intravascular Coagulation
+455	Skin Diseases, Viral
+456	Obesity Hypoventilation Syndrome
+457	Epilepsy, Rolandic
+458	Macroglossia
+459	Diffuse Cerebral Sclerosis of Schilder
+460	Fatty Liver
+461	Gastrointestinal Diseases
+462	Hand Injuries
+463	Endocarditis
+464	Genital Neoplasms, Female
+465	Substance-Related Disorders
+466	Oculomotor Nerve Diseases
+467	Hearing Loss
+468	Lymphoma, Large B-Cell, Diffuse
+469	Mediastinal Diseases
+470	Aortic Aneurysm
+471	Pulmonary Emphysema
+472	Tuberculosis, Pleural
+473	Coronary Stenosis
+474	Taste Disorders
+475	Cerebrospinal Fluid Otorrhea
+476	Intracranial Hemorrhages
+477	Corneal Diseases
+478	Tooth Discoloration
+479	Hyperalgesia
+480	Nocardia Infections
+481	Hip Dislocation
+482	Rickets
+483	Polycythemia
+484	Arterial Occlusive Diseases
+485	Infertility, Male
+486	Nose Deformities, Acquired
+487	Measles
+488	Mandibular Diseases
+489	Hypokalemia
+490	Ulcer
+491	Craniofacial Abnormalities
+492	Leg Injuries
+493	Plasmacytoma
+494	Parasitemia
+495	Earache
+496	Disorders of Sex Development
+497	Sciatica
+498	Brain Death
+499	Spinal Diseases
+500	Orchitis
+501	Myotonic Dystrophy
+502	Mycobacterium avium-intracellulare Infection
+503	Polychondritis, Relapsing
+504	Tic Disorders
+505	Anti-Glomerular Basement Membrane Disease
+506	Ascariasis
+507	Embolism, Air
+508	Miller Fisher Syndrome
+509	Purpura, Hyperglobulinemic
+510	Lupus Nephritis
+511	Reflex Sympathetic Dystrophy
+512	Strongylida Infections
+513	Thyroiditis, Autoimmune
+514	Hemoglobinuria, Paroxysmal
+515	Tracheal Neoplasms
+516	Pharyngeal Diseases
+517	alpha 1-Antitrypsin Deficiency
+518	Surgical Wound Dehiscence
+519	Ataxia Telangiectasia
+520	Coma
+521	Nephritis
+522	Asbestosis
+523	Duodenal Ulcer
+524	Wernicke Encephalopathy
+525	Pancreatitis, Chronic
+526	Hernia, Ventral
+527	Acrocephalosyndactylia
+528	Monoclonal Gammopathy of Undetermined Significance
+529	Folic Acid Deficiency
+530	Malformations of Cortical Development
+531	Fuchs' Endothelial Dystrophy
+532	Keratoconjunctivitis
+533	Tonic Pupil
+534	Hepatitis, Chronic
+535	Brain Injuries
+536	Pulmonary Atelectasis
+537	Bronchogenic Cyst
+538	Oral Ulcer
+539	Whiplash Injuries
+540	Neoplasms, Experimental
+541	Myosarcoma
+542	Skin Diseases, Papulosquamous
+543	Glossalgia
+544	Atrial Fibrillation
+545	Erectile Dysfunction
+546	Spondylolisthesis
+547	Dental Enamel Hypoplasia
+548	Adrenocortical Hyperfunction
+549	Presbyopia
+550	Lipomatosis
+551	Sensation Disorders
+552	Fat Necrosis
+553	Channelopathies
+554	Myocardial Infarction
+555	Hypercholesterolemia
+556	Olivopontocerebellar Atrophies
+557	Adrenoleukodystrophy
+558	Myoclonic Cerebellar Dyssynergia
+559	Polyradiculoneuropathy
+560	High Pressure Neurological Syndrome
+561	Collagen Diseases
+562	Neoplasms, Neuroepithelial
+563	Pulmonary Fibrosis
+564	Brucellosis
+565	Gingival Diseases
+566	MELAS Syndrome
+567	Angelman Syndrome
+568	Lymphocytosis
+569	Pulpitis
+570	Pneumococcal Infections
+571	Laryngeal Edema
+572	Refractive Errors
+573	Factitious Disorders
+574	Uveitis, Anterior
+575	Ear Diseases
+576	Myoclonic Epilepsy, Juvenile
+577	Mycoses
+578	Heart Rupture, Post-Infarction
+579	Fibroma
+580	Sinusitis
+581	Chlamydophila Infections
+582	Vasculitis
+583	Proctitis
+584	Coronary Disease
+585	Postural Orthostatic Tachycardia Syndrome
+586	Cleft Palate
+587	Magnesium Deficiency
+588	Mutism
+589	Lens Diseases
+590	Sweating, Gustatory
+591	Mercury Poisoning, Nervous System
+592	Orthostatic Intolerance
+593	Cerebrovascular Disorders
+594	Anisakiasis
+595	Pneumonia, Aspiration
+596	Coronary Restenosis
+597	Neoplasm Recurrence, Local
+598	Uterine Prolapse
+599	Giant Lymph Node Hyperplasia
+600	Stiff-Person Syndrome
+601	Arachnoid Cysts
+602	Alzheimer Disease
+603	Cholecystolithiasis
+604	Myocarditis
+605	Parkinson Disease
+606	Syringomyelia
+607	Leukoencephalitis, Acute Hemorrhagic
+608	Aspergillosis
+609	Amyloid Neuropathies, Familial
+610	Shock, Traumatic
+611	Leptospirosis
+612	Dyspnea, Paroxysmal
+613	Akathisia, Drug-Induced
+614	Dyslipidemias
+615	Toothache
+616	Bronchopneumonia
+617	Chorea
+618	Stevens-Johnson Syndrome
+619	Panniculitis
+620	Trachoma
+621	Protein C Deficiency
+622	Multiple Endocrine Neoplasia
+623	Diabetic Ketoacidosis
+624	Hyperuricemia
+625	Meningitis, Aseptic
+626	Foot Deformities, Acquired
+627	Mesenteric Vascular Occlusion
+628	Thyroiditis, Subacute
+629	Esophageal Fistula
+630	Typhus, Endemic Flea-Borne
+631	Neural Tube Defects
+632	Liver Abscess
+633	Laryngeal Neoplasms
+634	Brain Edema
+635	Enophthalmos
+636	Scarlet Fever
+637	Myopathies, Nemaline
+638	Epilepsy, Absence
+639	Abdominal Abscess
+640	Oligomenorrhea
+641	Fetal Nutrition Disorders
+642	Hypothyroidism
+643	Eosinophilia
+644	Leukomalacia, Periventricular
+645	Lactation Disorders
+646	Ganglioglioma
+647	Carotid Body Tumor
+648	Diverticulum, Esophageal
+649	Short Bowel Syndrome
+650	Lung Diseases, Fungal
+651	Ectodermal Dysplasia
+652	Adrenal Gland Neoplasms
+653	Water Intoxication
+654	Vibrio Infections
+655	Scabies
+656	Tonsillar Neoplasms
+657	Radiation Injuries, Experimental
+658	Perceptual Disorders
+659	Tabes Dorsalis
+660	Dermatitis, Allergic Contact
+661	Psychomotor Disorders
+662	Histoplasmosis
+663	Sneddon Syndrome
+664	Hemoperitoneum
+665	Fasciitis, Necrotizing
+666	Metal Metabolism, Inborn Errors
+667	Ergotism
+668	Voice Disorders
+669	Neuroblastoma
+670	Guillain-Barre Syndrome
+671	Dizziness
+672	Ureteral Diseases
+673	Meningitis
+674	Neuritis
+675	Bell Palsy
+676	Capgras Syndrome
+677	Cholangiocarcinoma
+678	Gynecomastia
+679	Transsexualism
+680	Vestibulocochlear Nerve Diseases
+681	Epidermal Necrolysis, Toxic
+682	Coronary Artery Disease
+683	Cough
+684	Carcinoma, Papillary
+685	Intestinal Diseases, Parasitic
+686	Lipodystrophy
+687	Muscular Dystrophy, Duchenne
+688	Agricultural Workers' Diseases
+689	Renal Aminoacidurias
+690	Polycystic Kidney, Autosomal Dominant
+691	Cholestasis
+692	Mental Retardation, X-Linked
+693	Hematocolpos
+694	Anencephaly
+695	Illusions
+696	Myotonic Disorders
+697	Keratitis
+698	REM Sleep Behavior Disorder
+699	Burns, Inhalation
+700	Exanthema
+701	Cockayne Syndrome
+702	Peritoneal Diseases
+703	Hepatic Encephalopathy
+704	Mandibular Fractures
+705	Olfaction Disorders
+706	Hypersensitivity, Immediate
+707	Muscle Spasticity
+708	Osteoblastoma
+709	Death, Sudden, Cardiac
+710	Clubfoot
+711	Nerve Sheath Neoplasms
+712	Thecoma
+713	Optic Neuropathy, Ischemic
+714	Pica
+715	Renal Insufficiency
+716	Somnambulism
+717	Oligohydramnios
+718	Optic Atrophy
+719	Night Blindness
+720	Hypertelorism
+721	Dysgammaglobulinemia
+722	Hematoma, Epidural, Spinal
+723	Arnold-Chiari Malformation
+724	Tuberculosis, Meningeal
+725	West Nile Fever
+726	Fasciculation
+727	Herpes Zoster
+728	Hypohidrosis
+729	Pregnancy, Ectopic
+730	Heat Stroke
+731	Oral Manifestations
+732	Abortion, Veterinary
+733	Shoulder Pain
+734	Leukemia, Lymphocytic, Chronic, B-Cell
+735	Hematoma, Subdural, Spinal
+736	Dislocations
+737	Sialadenitis
+738	Ophthalmoplegia, Chronic Progressive External
+739	Toxoplasmosis, Congenital
+740	Encephalomyelitis, Autoimmune, Experimental
+741	Hyperostosis, Cortical, Congenital
+742	Anemia, Neonatal
+743	Cystocele
+744	Giant Cell Arteritis
+745	Hypertension, Renovascular
+746	Vitamin E Deficiency
+747	Leishmaniasis, Visceral
+748	Infertility
+749	Empyema
+750	Meconium Aspiration Syndrome
+751	Polycystic Ovary Syndrome
+752	Developmental Disabilities
+753	Epidural Neoplasms
+754	Muscle Rigidity
+755	Neurofibromatosis 2
+756	Lichen Planus
+757	Neurofibromatosis 1
+758	Lordosis
+759	Brain Injury, Chronic
+760	Choroid Diseases
+761	Klippel-Trenaunay-Weber Syndrome
+762	Fetal Macrosomia
+763	Nephrotic Syndrome
+764	Rocky Mountain Spotted Fever
+765	Toxoplasmosis
+766	Stomach Volvulus
+767	Gram-Negative Bacterial Infections
+768	Ganglioneuroblastoma
+769	Digestive System Neoplasms
+770	Lymphohistiocytosis, Hemophagocytic
+771	Choroiditis
+772	Turner Syndrome
+773	Polycystic Kidney Diseases
+774	Tularemia
+775	Ulnar Nerve Compression Syndromes
+776	Brachial Plexus Neuritis
+777	Liver Cirrhosis, Alcoholic
+778	Meningoencephalitis
+779	Language Disorders
+780	Rotavirus Infections
+781	Hematometra
+782	Anxiety Disorders
+783	Testicular Diseases
+784	Carcinoma in Situ
+785	Sarcoma, Yoshida
+786	Lung Diseases
+787	Myocardial Bridging
+788	Uremia
+789	Aortic Diseases
+790	Lung Diseases, Obstructive
+791	Psoas Abscess
+792	Myeloproliferative Disorders
+793	Hypoxia-Ischemia, Brain
+794	Muscular Disorders, Atrophic
+795	Microvascular Angina
+796	Polyneuropathies
+797	Posterior Leukoencephalopathy Syndrome
+798	Pyoderma Gangrenosum
+799	Epidermolysis Bullosa Dystrophica
+800	Cardiac Output, Low
+801	Pneumonia, Pneumococcal
+802	Essential Tremor
+803	Purine-Pyrimidine Metabolism, Inborn Errors
+804	Wounds, Penetrating
+805	Hypoventilation
+806	Adenoma, Chromophobe
+807	Lesch-Nyhan Syndrome
+808	Joint Diseases
+809	Pelvic Infection
+810	Malocclusion
+811	Leukoencephalopathy, Progressive Multifocal
+812	alpha-Thalassemia
+813	Craniopharyngioma
+814	Carcinoma 256, Walker
+815	Tetralogy of Fallot
+816	Typhoid Fever
+817	Edema, Cardiac
+818	Miosis
+819	Leukemic Infiltration
+820	Tension-Type Headache
+821	Drug-Induced Liver Injury
+822	Dermatitis, Occupational
+823	Fasciitis
+824	Biliary Dyskinesia
+825	Cerebellar Neoplasms
+826	Neurocirculatory Asthenia
+827	Still's Disease, Adult-Onset
+828	Headache Disorders
+829	Retinal Drusen
+830	Primary Ovarian Insufficiency
+831	Roseolovirus Infections
+832	Pneumopericardium
+833	Knee Injuries
+834	Jejunal Neoplasms
+835	Sepsis
+836	Child Development Disorders, Pervasive
+837	Ventricular Fibrillation
+838	Eye Burns
+839	Ascites
+840	Cholecystitis
+841	Limb Deformities, Congenital
+842	Pulmonary Valve Stenosis
+843	Parkinsonian Disorders
+844	Hematoma, Subdural
+845	Ectoparasitic Infestations
+846	Encephalomyelitis
+847	Enuresis
+848	Diabetic Foot
+849	Myokymia
+850	Insulinoma
+851	Anemia, Hemolytic, Autoimmune
+852	Femoral Neck Fractures
+853	Vestibular Diseases
+854	Dermatitis Herpetiformis
+855	Mandibulofacial Dysostosis
+856	Munchausen Syndrome
+857	IgA Deficiency
+858	Pituitary Neoplasms
+859	Myxoma
+860	Mallory-Weiss Syndrome
+861	Progeria
+862	Leg Dermatoses
+863	Orbital Fractures
+864	Heart Neoplasms
+865	Sarcoma, Ewing's
+866	Purpura, Thrombotic Thrombocytopenic
+867	Neoplasms, Germ Cell and Embryonal
+868	Tachycardia, Sinus
+869	Intestinal Diseases
+870	Optic Nerve Injuries
+871	Thalassemia
+872	Schizophrenia, Disorganized
+873	Lactose Intolerance
+874	Lathyrism
+875	Lymphoma
+876	Schizophrenia, Childhood
+877	Pierre Robin Syndrome
+878	Reflex, Babinski
+879	Opportunistic Infections
+880	Peptic Ulcer Perforation
+881	Exocrine Pancreatic Insufficiency
+882	Fungemia
+883	Dental Caries
+884	Peripheral Nervous System Neoplasms
+885	Spondylarthritis
+886	Macular Edema
+887	Cholera
+888	Pseudomonas Infections
+889	Capillary Leak Syndrome
+890	Contusions
+891	Intracranial Arteriovenous Malformations
+892	Aneurysm, Dissecting
+893	Trisomy
+894	Prenatal Exposure Delayed Effects
+895	Encephalitis, Viral
+896	Tourette Syndrome
+897	DiGeorge Syndrome
+898	Encephalitis, Varicella Zoster
+899	Radiculopathy
+900	Anemia, Aplastic
+901	Dermatitis
+902	Tuberculosis, Gastrointestinal
+903	Ear Deformities, Acquired
+904	Congenital Abnormalities
+905	Colonic Polyps
+906	Toxoplasmosis, Ocular
+907	Postpartum Hemorrhage
+908	Wrist Injuries
+909	Dysphonia
+910	Peripheral Vascular Diseases
+911	Thromboembolism
+912	Meningomyelocele
+913	Respiratory Hypersensitivity
+914	Ehlers-Danlos Syndrome
+915	Retinal Neoplasms
+916	von Willebrand Diseases
+917	Impotence, Vasculogenic
+918	Blood Coagulation Disorders
+919	Fetomaternal Transfusion
+920	Ochronosis
+921	Adenomatous Polyposis Coli
+922	Tuberculoma
+923	Vision, Low
+924	Blister
+925	Corneal Wavefront Aberration
+926	Wasting Syndrome
+927	Bartonella Infections
+928	Thrombocythemia, Essential
+929	Ileal Diseases
+930	Encephalocele
+931	Shock, Septic
+932	Tuberculosis, Female Genital
+933	Median Neuropathy
+934	Urinary Fistula
+935	Purpura, Thrombocytopenic, Idiopathic
+936	Sleep Deprivation
+937	Foot Injuries
+938	Head Injuries, Closed
+939	Hyperparathyroidism, Primary
+940	Leukemia
+941	Osteoarthropathy, Secondary Hypertrophic
+942	Onchocerciasis
+943	Neurosyphilis
+944	Muscle Hypertonia
+945	Abortion, Threatened
+946	Mitral Valve Insufficiency
+947	beta-Thalassemia
+948	Osteosclerosis
+949	Bronchitis
+950	Weil Disease
+951	Corneal Opacity
+952	Moyamoya Disease
+953	Thoracic Diseases
+954	Spondylarthropathies
+955	Cryoglobulinemia
+956	Whipple Disease
+957	Tuberculosis, Osteoarticular
+958	Superior Mesenteric Artery Syndrome
+959	Hypokinesia
+960	Aspergillosis, Allergic Bronchopulmonary
+961	Epilepsy, Frontal Lobe
+962	Pericardial Effusion
+963	Prolactinoma
+964	Echovirus Infections
+965	Hypertriglyceridemia
+966	Goiter, Nodular
+967	Autoimmune Diseases
+968	Lipid Metabolism, Inborn Errors
+969	Serum Sickness
+970	Cerebral Amyloid Angiopathy
+971	Cushing Syndrome
+972	Nerve Degeneration
+973	Eyelid Diseases
+974	Blepharospasm
+975	Barotrauma
+976	Hematologic Diseases
+977	Hypertension, Pregnancy-Induced
+978	Hyperaldosteronism
+979	Fractures, Spontaneous
+980	Gout
+981	Aortic Coarctation
+982	Dehydration
+983	Bile Duct Diseases
+984	Gingivitis
+985	Giant Cell Tumors
+986	Photosensitivity Disorders
+987	Down Syndrome
+988	Pulmonary Edema
+989	Hyperkalemia
+990	Hearing Disorders
+991	Compartment Syndromes
+992	Osteochondritis
+993	Ovarian Cysts
+994	Gangrene
+995	Optic Atrophy, Hereditary, Leber
+996	Polyhydramnios
+997	Neurilemmoma
+998	Schizophrenia, Paranoid
+999	Otosclerosis
+1000	Mesenteric Lymphadenitis
+1001	Carcinoid Tumor
+1002	HIV Seropositivity
+1003	Peptic Ulcer Hemorrhage
+1004	Glossopharyngeal Nerve Diseases
+1005	Arrhythmogenic Right Ventricular Dysplasia
+1006	Pregnancy Complications, Parasitic
+1007	Transposition of Great Vessels
+1008	Lightning Injuries
+1009	Chorioretinitis
+1010	Ciliary Motility Disorders
+1011	Thrombosis
+1012	Adrenal Insufficiency
+1013	Cerebral Infarction
+1014	Adrenal Gland Diseases
+1015	Anthrax
+1016	Paresis
+1017	Communication Disorders
+1018	Adenocarcinoma, Mucinous
+1019	Dermatitis, Contact
+1020	Hemorrhoids
+1021	Brain Concussion
+1022	Glycogen Storage Disease
+1023	WAGR Syndrome
+1024	Leiomyoma
+1025	Diabetes Complications
+1026	Uterine Cervical Diseases
+1027	Orbital Diseases
+1028	Learning Disorders
+1029	Biliary Tract Neoplasms
+1030	Intracranial Aneurysm
+1031	Limbic Encephalitis
+1032	Rectocele
+1033	Marfan Syndrome
+1034	Kwashiorkor
+1035	Xeroderma Pigmentosum
+1036	Diabetes Mellitus, Experimental
+1037	Hypophosphatemia
+1038	Dysentery
+1039	Muscle Hypotonia
+1040	Orthomyxoviridae Infections
+1041	Optic Atrophies, Hereditary
+1042	Erdheim-Chester Disease
+1043	Cerebellar Diseases
+1044	Colitis, Ulcerative
+1045	Hand Dermatoses
+1046	Tics
+1047	Sarcoidosis
+1048	Intracranial Embolism
+1049	Ulnar Neuropathies
+1050	Insulin Resistance
+1051	Lewy Body Disease
+1052	Gonorrhea
+1053	Corynebacterium Infections
+1054	Whooping Cough
+1055	Tachycardia
+1056	Urinary Bladder, Overactive
+1057	Oculocerebrorenal Syndrome
+1058	Filariasis
+1059	Calculi
+1060	Cognition Disorders
+1061	Sexual Dysfunctions, Psychological
+1062	Pharyngitis
+1063	Korsakoff Syndrome
+1064	Esotropia
+1065	Frostbite
+1066	Hypertension, Malignant
+1067	Kidney Cortex Necrosis
+1068	Polyarteritis Nodosa
+1069	HELLP Syndrome
+1070	Arrhythmias, Cardiac
+1071	Nails, Malformed
+1072	Hearing Loss, Unilateral
+1073	Dyslexia, Acquired
+1074	Sarcopenia
+1075	Hemoptysis
+1076	Myopathies, Structural, Congenital
+1077	Jaundice, Neonatal
+1078	Amyotrophic Lateral Sclerosis
+1079	Aphasia, Conduction
+1080	Reflex, Abnormal
+1081	Bulimia Nervosa
+1082	Bezoars
+1083	Choroideremia
+1084	Lupus Erythematosus, Systemic
+1085	Facies
+1086	Spasm
+1087	Hip Injuries
+1088	Osteomalacia
+1089	Pupil Disorders
+1090	Alkalosis, Respiratory
+1091	Hepatolenticular Degeneration
+1092	Diabetes, Gestational
+1093	Deafness
+1094	Vitamin B 6 Deficiency
+1095	Schizotypal Personality Disorder
+1096	AIDS-Associated Nephropathy
+1097	Multiple Sclerosis, Chronic Progressive
+1098	Facial Hemiatrophy
+1099	Head Injuries, Penetrating
+1100	Aortic Valve Stenosis
+1101	Tuberculoma, Intracranial
+1102	Hyperlipoproteinemia Type II
+1103	Leukemia, Experimental
+1104	Phantom Limb
+1105	Hyperacusis
+1106	Cysts
+1107	Trematode Infections
+1108	Acute-Phase Reaction
+1109	Neurotoxicity Syndromes
+1110	Pulmonary Eosinophilia
+1111	Lambert-Eaton Myasthenic Syndrome
+1112	Tick-Borne Diseases
+1113	Uterine Perforation
+1114	Retinal Neovascularization
+1115	Hypophosphatemia, Familial
+1116	Shock
+1117	Wegener Granulomatosis
+1118	Blood Platelet Disorders
+1119	Tuberous Sclerosis
+1120	Abdominal Injuries
+1121	Pneumocephalus
+1122	Hearing Loss, Sensorineural
+1123	Salmonella Infections, Animal
+1124	Priapism
+1125	Malignant Hyperthermia
+1126	Ventricular Septal Rupture
+1127	Glomus Jugulare Tumor
+1128	Spinal Dysraphism
+1129	Wiskott-Aldrich Syndrome
+1130	Hypothalamic Neoplasms
+1131	Heart Rupture
+1132	Neuroectodermal Tumors, Primitive, Peripheral
+1133	Laryngismus
+1134	Stroke
+1135	Choanal Atresia
+1136	Skull Base Neoplasms
+1137	Placental Insufficiency
+1138	Frontal Sinusitis
+1139	Ageusia
+1140	Heart Arrest
+1141	Respiratory Paralysis
+1142	Hoarseness
+1143	Rib Fractures
+1144	Histiocytoma
+1145	Avitaminosis
+1146	Severe Acute Respiratory Syndrome
+1147	CADASIL
+1148	Hemangioma
+1149	Granulosa Cell Tumor
+1150	Morning Sickness
+1151	Adams-Stokes Syndrome
+1152	Muscle Weakness
+1153	Common Bile Duct Neoplasms
+1154	Otitis
+1155	Myositis Ossificans
+1156	Pulmonary Embolism
+1157	Carotid Stenosis
+1158	Female Urogenital Diseases
+1159	Acidosis
+1160	Oliguria
+1161	Rett Syndrome
+1162	Dysmenorrhea
+1163	Meningioma
+1164	Meningitis, Haemophilus
+1165	Puberty, Precocious
+1166	Parotitis
+1167	Hair Diseases
+1168	Nose Neoplasms
+1169	Hypochondriasis
+1170	Thrombotic Microangiopathies
+1171	Shock, Hemorrhagic
+1172	Hernia, Abdominal
+1173	Dental Pulp Diseases
+1174	Paraplegia
+1175	Melanoma, Experimental
+1176	Acquired Immunodeficiency Syndrome
+1177	Stomach Diseases
+1178	Hyperandrogenism
+1179	Carcinoma, Renal Cell
+1180	Encephalitis, Arbovirus
+1181	Prosopagnosia
+1182	Histiocytosis, Sinus
+1183	Hypertrophy, Right Ventricular
+1184	Glaucoma, Open-Angle
+1185	Sarcoidosis, Pulmonary
+1186	Renal Insufficiency, Chronic
+1187	Malaria
+1188	Pulmonary Alveolar Proteinosis
+1189	Q Fever
+1190	Abnormalities, Multiple
+1191	Intestinal Volvulus
+1192	Hypokalemic Periodic Paralysis
+1193	Paraneoplastic Cerebellar Degeneration
+1194	Paramyxoviridae Infections
+1195	Micrognathism
+1196	Bronchiolitis
+1197	Synovial Cyst
+1198	Alopecia
+1199	Lymphopenia
+1200	Acne Vulgaris
+1201	Poisoning
+1202	Hypertension, Portal
+1203	Graft Occlusion, Vascular
+1204	Friedreich Ataxia
+1205	Antisocial Personality Disorder
+1206	Retrobulbar Hemorrhage
+1207	Polyradiculoneuropathy, Chronic Inflammatory Demyelinating
+1208	Osteitis Fibrosa Cystica
+1209	Paraparesis, Spastic
+1210	Encephalomyelitis, Acute Disseminated
+1211	Viremia
+1212	Neovascularization, Pathologic
+1213	Hypertension, Pulmonary
+1214	Depression, Postpartum
+1215	Tobacco Use Disorder
+1216	Respiratory Aspiration
+1217	Pain
+1218	Sarcoma, Kaposi
+1219	Anisometropia
+1220	Lung Diseases, Parasitic
+1221	Aphasia, Broca
+1222	Eye Infections, Fungal
+1223	Epilepsy, Tonic-Clonic
+1224	Common Cold
+1225	Lacerations
+1226	Intervertebral Disk Displacement
+1227	Hemangioendothelioma
+1228	Spinal Cord Diseases
+1229	Landau-Kleffner Syndrome
+1230	Tennis Elbow
+1231	Aortic Aneurysm, Abdominal
+1232	Sexual Dysfunction, Physiological
+1233	Fusobacterium Infections
+1234	Epiphyses, Slipped
+1235	Paraganglioma
+1236	Genetic Diseases, Inborn
+1237	Neurocysticercosis
+1238	Respiratory Tract Infections
+1239	Bronchiolitis, Viral
+1240	Retinal Perforations
+1241	Intermittent Claudication
+1242	Colonic Diseases, Functional
+1243	Heart Valve Diseases
+1244	Cecal Diseases
+1245	Carotid Artery Thrombosis
+1246	Frontotemporal Lobar Degeneration
+1247	Hypergammaglobulinemia
+1248	Afibrinogenemia
+1249	Glucagonoma
+1250	Dementia, Vascular
+1251	Hematoma, Epidural, Cranial
+1252	Tracheal Stenosis
+1253	Urologic Neoplasms
+1254	Abortion, Septic
+1255	Liver Diseases, Alcoholic
+1256	Slow Virus Diseases
+1257	Subacute Sclerosing Panencephalitis
+1258	Torsades de Pointes
+1259	Vagus Nerve Diseases
+1260	Torticollis
+1261	Uterine Diseases
+1262	Fallopian Tube Neoplasms
+1263	Child Nutrition Disorders
+1264	Parotid Diseases
+1265	Vestibular Neuronitis
+1266	Orofaciodigital Syndromes
+1267	Embolism, Cholesterol
+1268	Coccidiosis
+1269	Premenstrual Syndrome
+1270	Sweat Gland Neoplasms
+1271	Brain Abscess
+1272	Graves Disease
+1273	Seasonal Affective Disorder
+1274	Hydrothorax
+1275	Diabetic Nephropathies
+1276	Fallopian Tube Diseases
+1277	Asthenopia
+1278	Postgastrectomy Syndromes
+1279	Exostoses, Multiple Hereditary
+1280	Bronchial Neoplasms
+1281	Anemia, Hemolytic
+1282	Urethral Obstruction
+1283	Cholelithiasis
+1284	Retinal Hemorrhage
+1285	Hypogonadism
+1286	Herpes Genitalis
+1287	Aortic Rupture
+1288	Periodontitis
+1289	Acidosis, Respiratory
+1290	Melanosis
+1291	Abducens Nerve Diseases
+1292	Waardenburg's Syndrome
+1293	Goiter, Substernal
+1294	Extravasation of Diagnostic and Therapeutic Materials
+1295	Shoulder Impingement Syndrome
+1296	Candidiasis
+1297	Carcinoma, Signet Ring Cell
+1298	Mixed Connective Tissue Disease
+1299	Leukemia, Plasma Cell
+1300	Conjunctival Diseases
+1301	Foot Dermatoses
+1302	Fetofetal Transfusion
+1303	Hyperlipoproteinemias
+1304	Mitral Valve Prolapse
+1305	Paraproteinemias
+1306	Tooth Abrasion
+1307	Splenic Infarction
+1308	Uveal Neoplasms
+1309	Malnutrition
+1310	Seizures
+1311	Birth Injuries
+1312	Myopia, Degenerative
+1313	Agraphia
+1314	Fetal Diseases
+1315	Cryptorchidism
+1316	Sarcoma, Synovial
+1317	Digestive System Abnormalities
+1318	Keratitis, Dendritic
+1319	Urethral Stricture
+1320	Seminoma
+1321	Anuria
+1322	Hypopigmentation
+1323	Blindness
+1324	Postpoliomyelitis Syndrome
+1325	Bile Duct Neoplasms
+1326	Echinococcosis, Pulmonary
+1327	Mucopolysaccharidosis III
+1328	Dementia, Multi-Infarct
+1329	Translocation, Genetic
+1330	Chondrosarcoma
+1331	Melena
+1332	Nocturnal Myoclonus Syndrome
+1333	Vitamin D Deficiency
+1334	Superior Vena Cava Syndrome
+1335	Osteonecrosis
+1336	Cystinosis
+1337	Bronchial Hyperreactivity
+1338	Paranasal Sinus Diseases
+1339	Enterobacteriaceae Infections
+1340	Esophageal Neoplasms
+1341	Status Asthmaticus
+1342	Vasculitis, Leukocytoclastic, Cutaneous
+1343	Tenosynovitis
+1344	Sleep Disorders, Intrinsic
+1345	Liver Neoplasms, Experimental
+1346	Pigmentation Disorders
+1347	Infant Nutrition Disorders
+1348	Pericarditis
+1349	Parkinson Disease, Secondary
+1350	Abruptio Placentae
+1351	Cystadenoma, Mucinous
+1352	Cytomegalovirus Infections
+1353	Endometriosis
+1354	Multiple Organ Failure
+1355	Heart Block
+1356	Esophageal and Gastric Varices
+1357	Labyrinth Diseases
+1358	Arteriosclerosis Obliterans
+1359	Germinoma
+1360	Eye Infections, Viral
+1361	Urologic Diseases
+1362	Aortitis
+1363	Splenic Diseases
+1364	Pancreatitis, Acute Necrotizing
+1365	Muscular Atrophy
+1366	Shaken Baby Syndrome
+1367	Venous Thrombosis
+1368	Accessory Nerve Diseases
+1369	Angiomatosis
+1370	Choline Deficiency
+1371	Neck Pain
+1372	Hemoglobinuria
+1373	Eye Abnormalities
+1374	Meniere Disease
+1375	Osteoporosis, Postmenopausal
+1376	Skin Ulcer
+1377	Persian Gulf Syndrome
+1378	Hyperpigmentation
+1379	Neurocutaneous Syndromes
+1380	Vitreous Hemorrhage
+1381	Embolism, Paradoxical
+1382	Porphyrias
+1383	Gigantism
+1384	Hyponatremia
+1385	Neoplasm Invasiveness
+1386	Keloid
+1387	Condylomata Acuminata
+1388	Dysautonomia, Familial
+1389	Sinoatrial Block
+1390	Spinal Curvatures
+1391	Leydig Cell Tumor
+1392	Aphasia, Primary Progressive
+1393	Precursor Cell Lymphoblastic Leukemia-Lymphoma
+1394	Liver Cirrhosis
+1395	Phlebitis
+1396	Hemosiderosis
+1397	Lassa Fever
+1398	Genital Diseases, Female
+1399	Fascioliasis
+1400	Phenylketonurias
+1401	Lymphadenitis
+1402	Brain Damage, Chronic
+1403	Intracranial Thrombosis
+1404	Wolff-Parkinson-White Syndrome
+1405	Feeding and Eating Disorders of Childhood
+1406	Abortion, Spontaneous
+1407	Cysticercosis
+1408	Vulvar Diseases
+1409	Solitary Pulmonary Nodule
+1410	Pancreatic Pseudocyst
+1411	Aneurysm
+1412	Akinetic Mutism
+1413	Thymus Neoplasms
+1414	Endometrial Neoplasms
+1415	Fibrous Dysplasia of Bone
+1416	Iliac Aneurysm
+1417	Central Nervous System Diseases
+1418	Esophageal Atresia
+1419	Gerstmann Syndrome
+1420	Paranoid Disorders
+1421	Conduct Disorder
+1422	Retinal Degeneration
+1423	Hypopituitarism
+1424	Pain, Referred
+1425	Osteochondroma
+1426	Diabetes Mellitus, Type 1
+1427	Diabetes Mellitus, Type 2
+1428	Angiomyolipoma
+1429	Glaucoma, Angle-Closure
+1430	Nutrition Disorders
+1431	Nevus
+1432	Substance Withdrawal Syndrome
+1433	Vertebral Artery Dissection
+1434	Death, Sudden
+1435	Gastritis
+1436	Spinal Neoplasms
+1437	Carotid Artery Diseases
+1438	Hypoparathyroidism
+1439	Oropharyngeal Neoplasms
+1440	Hyperventilation
+1441	Hyperparathyroidism
+1442	Glycosuria
+1443	Granuloma, Plasma Cell
+1444	Esophageal Achalasia
+1445	Cartilage Diseases
+1446	Hearing Loss, High-Frequency
+1447	Airway Obstruction
+1448	Colitis, Ischemic
+1449	Leg Length Inequality
+1450	Gallbladder Diseases
+1451	Calcium Metabolism Disorders
+1452	Bundle-Branch Block
+1453	Vitiligo
+1454	Urinary Bladder, Neurogenic
+1455	Respiratory Distress Syndrome, Newborn
+1456	Anemia, Megaloblastic
+1457	Hyperhomocysteinemia
+1458	Amnesia
+1459	Hookworm Infections
+1460	Hypertensive Encephalopathy
+1461	Rhabdomyoma
+1462	Hearing Loss, Central
+1463	Endocarditis, Subacute Bacterial
+1464	Neurologic Manifestations
+1465	Skin Diseases
+1466	Cataplexy
+1467	Hyperhidrosis
+1468	Cluster Headache
+1469	Overdose
+1470	Rheumatic Fever
+1471	Coronary Aneurysm
+1472	Uveomeningoencephalitic Syndrome
+1473	Empyema, Pleural
+1474	Pyloric Stenosis
+1475	Erysipelas
+1476	Vascular Headaches
+1477	Nephrocalcinosis
+1478	Critical Illness
+1479	Chromosome Disorders
+1480	Kernicterus
+1481	Mycobacterium Infections, Atypical
+1482	Brain Stem Neoplasms
+1483	Lymphoma, B-Cell
+1484	Dentin Sensitivity
+1485	Anus Diseases
+1486	Choriocarcinoma
+1487	Retinitis Pigmentosa
+1488	Darier Disease
+1489	Lymphedema
+1490	Obsessive-Compulsive Disorder
+1491	Churg-Strauss Syndrome
+1492	Failure to Thrive
+1493	Cardiomyopathies
+1494	Gastroschisis
+1495	Vaccinia
+1496	Postoperative Complications
+1497	Ovarian Hyperstimulation Syndrome
+1498	Peritonitis
+1499	Cor Triatriatum
+1500	Supranuclear Palsy, Progressive
+1501	Malocclusion, Angle Class II
+1502	Mucocele
+1503	Bone Resorption
+1504	Hemobilia
+1505	Cerebral Hemorrhage
+1506	Polyradiculopathy
+1507	Alcoholic Neuropathy
+1508	Arm Injuries
+1509	Gastroesophageal Reflux
+1510	Obstetric Labor, Premature
+1511	Malaria, Cerebral
+1512	Bulbar Palsy, Progressive
+1513	Mediastinal Neoplasms
+1514	Cerebral Arterial Diseases
+1515	Osteomyelitis
+1516	Spondylitis
+1517	Wounds, Gunshot
+1518	Gram-Positive Bacterial Infections
+1519	Hand Deformities, Congenital
+1520	Leukocytosis
+1521	Cholestasis, Intrahepatic
+1522	Vascular Neoplasms
+1523	Inappropriate ADH Syndrome
+1524	Liver Diseases, Parasitic
+1525	Dementia
+1526	Porphyria, Acute Intermittent
+1527	Duodenogastric Reflux
+1528	Hydrocephalus
+1529	Motor Neuron Disease
+1530	Stereotypic Movement Disorder
+1531	Glioblastoma
+1532	Crohn Disease
+1533	Urinary Bladder Fistula
+1534	Aneurysm, Ruptured
+1535	Leukodystrophy, Metachromatic
+1536	Dystonia Musculorum Deformans
+1537	Paranasal Sinus Neoplasms
+1538	HTLV-I Infections
+1539	Uveitis
+1540	Narcolepsy
+1541	Mediastinal Emphysema
+1542	Hypoglossal Nerve Diseases
+1543	Acute Coronary Syndrome
+1544	Periapical Periodontitis
+1545	Meningitis, Pneumococcal
+1546	Angina Pectoris
+1547	Idiopathic Pulmonary Fibrosis
+1548	Pneumonia, Bacterial
+1549	Ganglion Cysts
+1550	Tooth Abnormalities
+1551	Glycogen Storage Disease Type V
+1552	Prostatic Hyperplasia
+1553	Cystitis, Interstitial
+1554	Papilledema
+1555	Glioma
+1556	Amino Acid Metabolism, Inborn Errors
+1557	Splenosis
+1558	Cerebrospinal Fluid Rhinorrhea
+1559	Liposarcoma
+1560	Hallucinations
+1561	Alagille Syndrome
+1562	Postoperative Nausea and Vomiting
+1563	Papilloma
+1564	Ossification, Heterotopic
+1565	Diaper Rash
+1566	Encephalitis, Japanese
+1567	Diabetic Retinopathy
+1568	Intestinal Polyps
+1569	Delirium
+1570	Choroidal Neovascularization
+1571	Graves Ophthalmopathy
+1572	Enterocolitis, Pseudomembranous
+1573	Werner Syndrome
+1574	Aortic Stenosis, Subvalvular
+1575	Kallmann Syndrome
+1576	Lymphoproliferative Disorders
+1577	Carcinoma, Pancreatic Ductal
+1578	Epilepsy, Benign Neonatal
+1579	Foramen Ovale, Patent
+1580	Microcephaly
+1581	Synkinesis
+1582	Shoulder Dislocation
+1583	Pancoast Syndrome
+1584	Wallerian Degeneration
+1585	Back Pain
+1586	Apnea
+1587	Mobius Syndrome
+1588	Tuberculosis, Miliary
+1589	Hypertrichosis
+1590	Glycogen Storage Disease Type I
+1591	Kidney Neoplasms
+1592	Acute Kidney Injury
+1593	Agoraphobia
+1594	Dandy-Walker Syndrome
+1595	Ventricular Dysfunction, Right
+1596	Spinocerebellar Ataxias
+1597	Hemophilia B
+1598	Thrombophlebitis
+1599	Dyssomnias
+1600	Ketosis
+1601	Tissue Adhesions
+1602	Autoimmune Diseases of the Nervous System
+1603	Hemophilia A
+1604	Mucormycosis
+1605	Abnormalities, Drug-Induced
+1606	Rectal Neoplasms
+1607	Cell Transformation, Neoplastic
+1608	Restless Legs Syndrome
+1609	Pneumonia, Viral
+1610	Fibrous Dysplasia, Monostotic
+1611	Testicular Neoplasms
+1612	Echinococcosis
+1613	Lymphangitis
+1614	Psychoses, Alcoholic
+1615	Hyperglycemic Hyperosmolar Nonketotic Coma
+1616	Lead Poisoning
+1617	Liver Neoplasms
+1618	Peptic Ulcer
+1619	Scleral Diseases
+1620	Tracheoesophageal Fistula
+1621	Hypotension, Orthostatic
+1622	Syncope
+1623	Photophobia
+1624	Brachial Plexus Neuropathies
+1625	Yersinia Infections
+1626	Adrenal Hyperplasia, Congenital
+1627	Genital Diseases, Male
+1628	Carcinoid Heart Disease
+1629	Brain Diseases
+1630	Gastritis, Hypertrophic
+1631	Pseudopseudohypoparathyroidism
+1632	Alcohol Amnestic Disorder
+1633	Complex Regional Pain Syndromes
+1634	Ureteral Calculi
+1635	Pancreatic Diseases
+1636	Mononeuropathies
+1637	Prostatic Diseases
+1638	Cerebral Ventricle Neoplasms
+1639	Osteitis Deformans
+1640	Spondylolysis
+1641	Subdural Effusion
+1642	Electric Injuries
+1643	Glucosephosphate Dehydrogenase Deficiency
+1644	Biliary Fistula
+1645	Epilepsy, Generalized
+1646	Periapical Diseases
+1647	Growth Disorders
+1648	Dysentery, Amebic
+1649	Pyuria
+1650	Presbycusis
+1651	Nerve Compression Syndromes
+1652	Intracranial Hypotension
+1653	Laryngostenosis
+1654	Optic Nerve Diseases
+1655	Fractures, Compression
+1656	Ventricular Premature Complexes
+1657	Eye Injuries
+1658	Enterocolitis
+1659	Nephrosis
+1660	Wounds, Nonpenetrating
+1661	Meningitis, Meningococcal
+1662	Neoplasm Metastasis
+1663	Depressive Disorder, Major
+1664	Muscular Diseases
+1665	Uterine Rupture
+1666	Polycythemia Vera
+1667	Urinary Bladder Diseases
+1668	Thrombocytopenia
+1669	Ileitis
+1670	Mitochondrial Myopathies
+1671	Neurodermatitis
+1672	Sick Sinus Syndrome
+1673	Gastric Fistula
+1674	Fibromuscular Dysplasia
+1675	Neurofibromatoses
+1676	Burkitt Lymphoma
+1677	Movement Disorders
+1678	Anemia, Iron-Deficiency
+1679	Spinal Cord Injuries
+1680	Craniofacial Dysostosis
+1681	Trochlear Nerve Diseases
+1682	Cheyne-Stokes Respiration
+1683	AIDS-Related Complex
+1684	Arthrogryposis
+1685	Liver Diseases
+1686	Mastoiditis
+1687	Wound Infection
+1688	Encephalitis, Herpes Simplex
+1689	Rubella
+1690	Arthritis, Reactive
+1691	Hypereosinophilic Syndrome
+1692	Epilepsy
+1693	Ethmoid Sinusitis
+1694	Osteochondromatosis
+1695	Gonadal Dysgenesis
+1696	Paraneoplastic Endocrine Syndromes
+1697	Cardiomegaly
+1698	Chordoma
+1699	MERRF Syndrome
+1700	Carcinoma, Small Cell
+1701	Lichenoid Eruptions
+1702	Torsion Abnormality
+1703	Mydriasis
+1704	Arteriovenous Malformations
+1705	Bursitis
+1706	Kidney Papillary Necrosis
+1707	Hyperlipidemias
+1708	Regurgitation, Gastric
+1709	Duodenal Diseases
+1710	Tremor
+1711	Hearing Loss, Noise-Induced
+1712	Tooth Fractures
+1713	Substance Abuse, Intravenous
+1714	Diaphragmatic Eventration
+1715	Hematoma, Subdural, Chronic
+1716	Melkersson-Rosenthal Syndrome
+1717	Anxiety, Separation
+1718	Hamartoma
+1719	Calcinosis
+1720	Hematoma
+1721	Picornaviridae Infections
+1722	Dysentery, Bacillary
+1723	Heavy Chain Disease
+1724	Paraganglioma, Extra-Adrenal
+1725	Intussusception
+1726	Breast Neoplasms
+1727	Hallux Valgus
+1728	Multiple Trauma
+1729	Hydatidiform Mole
+1730	Cardiomyopathy, Hypertrophic
+1731	Fetal Death
+1732	Ischemia
+1733	Escherichia coli Infections
+1734	Tetany
+1735	Child Behavior Disorders
+1736	Optic Atrophy, Autosomal Dominant
+1737	Fetal Hypoxia
+1738	Paratyphoid Fever
+1739	Cystitis
+1740	Salivary Gland Neoplasms
+1741	Neurodegenerative Diseases
+1742	Hysteria
+1743	Tibial Fractures
+1744	Strabismus
+1745	Hepatitis B, Chronic
+1746	Endomyocardial Fibrosis
+1747	Cardiac Complexes, Premature
+1748	Cholangitis
+1749	Hemangioma, Cavernous
+1750	Foreign Bodies
+1751	Vertebrobasilar Insufficiency
+1752	Sleep Initiation and Maintenance Disorders
+1753	Chagas Cardiomyopathy
+1754	Tuberculosis
+1755	Hernia, Diaphragmatic
+1756	Rectal Diseases
+1757	Paraparesis, Tropical Spastic
+1758	Megacolon
+1759	Color Vision Defects
+1760	Shock, Cardiogenic
+1761	Colonic Pseudo-Obstruction
+1762	Dysarthria
+1763	Brugada Syndrome
+1764	Cumulative Trauma Disorders
+1765	Vitamin K Deficiency
+1766	Retroviridae Infections
+1767	Gastrointestinal Neoplasms
+1768	Bone Diseases, Developmental
+1769	Aphasia, Wernicke
+1770	Paratuberculosis
+1771	Drowning
+1772	Machado-Joseph Disease
+1773	Raynaud Disease
+1774	Maxillary Fractures
+1775	Connective Tissue Diseases
+1776	Vitreoretinopathy, Proliferative
+1777	Lymphangioma, Cystic
+1778	Coccidioidomycosis
+1779	Lung Injury
+1780	Retrognathism
+1781	Echolalia
+1782	Encephalitis
+1783	Cataract
+1784	Myoclonus
+1785	Bacteriuria
+1786	Respiratory Tract Neoplasms
+1787	Inflammatory Bowel Diseases
+1788	Angioedema
+1789	Herpes Zoster Oticus
+1790	Vulvitis
+1791	Cryptococcosis
+1792	Uterine Neoplasms
+1793	Multiple Sclerosis, Relapsing-Remitting
+1794	Somatoform Disorders
+1795	Severe Combined Immunodeficiency
+1796	Abortion, Habitual
+1797	Meningococcal Infections
+1798	Hematemesis
+1799	Autonomic Nervous System Diseases
+1800	Proteinuria
+1801	Mycotoxicosis
+1802	Gas Poisoning
+1803	Ventricular Dysfunction, Left
+1804	Skin Diseases, Vesiculobullous
+1805	Scrapie
+1806	Usher Syndromes
+1807	Spina Bifida Occulta
+1808	Bird Fancier's Lung
+1809	Albuminuria
+1810	Cellulitis
+1811	Communicable Diseases
+1812	Stomach Ulcer
+1813	Menorrhagia
+1814	Coxsackievirus Infections
+1815	Liver Cirrhosis, Experimental
+1816	Paraneoplastic Polyneuropathy
+1817	Osteoarthritis, Hip
+1818	Agnosia
+1819	Mitral Valve Stenosis
+1820	Shoulder Fractures
+1821	Tricuspid Valve Insufficiency
+1822	Hemarthrosis
+1823	Hernia, Diaphragmatic, Traumatic
+1824	Neuromuscular Diseases
+1825	Seizures, Febrile
+1826	Lateral Sinus Thrombosis
+1827	Hemianopsia
+1828	Esophagitis
+1829	Myocardial Stunning
+1830	Carcinoma, Squamous Cell
+1831	Giardiasis
+1832	Myocardial Reperfusion Injury
+1833	Hypertrophy, Left Ventricular
+1834	Post-Traumatic Headache
+1835	Periodontal Diseases
+1836	Hydrocephalus, Normal Pressure
+1837	Myositis, Inclusion Body
+1838	Hemangioendothelioma, Epithelioid
+1839	Stress Disorders, Post-Traumatic
+1840	Chorioamnionitis
+1841	Infertility, Female
+1842	Facial Injuries
+1843	Myelinolysis, Central Pontine
+1844	Maple Syrup Urine Disease
+1845	Eye Foreign Bodies
+1846	Dental Pulp Necrosis
+1847	Finger Injuries
+1848	Conjunctivitis
+1849	Dissociative Disorders
+1850	Disorders of Excessive Somnolence
+1851	Urticaria Pigmentosa
+1852	Graft vs Host Disease
+1853	Malignant Carcinoid Syndrome
+1854	Carotid Artery, Internal, Dissection
+1855	Tooth Diseases
+1856	Leukemia, Promyelocytic, Acute
+1857	Celiac Disease
+1858	Babesiosis
+1859	Choledochal Cyst
+1860	Urethral Diseases
+1861	Pregnancy, Tubal
+1862	Mucopolysaccharidosis IV
+1863	Myofascial Pain Syndromes
+1864	Hypertension
+1865	Diseases in Twins
+1866	Glomerulonephritis, IGA
+1867	Body Dysmorphic Disorders
+1868	Camurati-Engelmann Syndrome
+1869	Endocarditis, Bacterial
+1870	Peripheral Arterial Disease
+1871	Arthritis, Experimental
+1872	Bacteremia
+1873	Lymphangioma
+1874	Urinary Calculi
+1875	Trichuriasis
+1876	Peritoneal Neoplasms
+1877	Mouth, Edentulous
+1878	Myelitis, Transverse
+1879	Pituitary Apoplexy
+1880	Foot Diseases
+1881	Decerebrate State
+1882	Kidney Failure, Chronic
+1883	Dermatitis, Atopic
+1884	Radial Neuropathy
+1885	Ventricular Dysfunction
+1886	Nephrosclerosis
+1887	Angina Pectoris, Variant
+1888	Bone Marrow Diseases
+1889	Sarcoma, Experimental
+1890	Cross Infection
+1891	Pharyngeal Neoplasms
+1892	Fistula
+1893	Diverticulosis, Esophageal
+1894	Meige Syndrome
+1895	Farmer's Lung
+1896	Fabry Disease
+1897	Radiation Injuries
+1898	Bacterial Infections
+1899	Heart Diseases
+1900	Ileal Neoplasms
+1901	Urination Disorders
+1902	Toxocariasis
+1903	Ataxia
+1904	Purpura, Thrombocytopenic
+1905	Thoracic Outlet Syndrome
+1906	Hereditary Sensory and Autonomic Neuropathies
+1907	Fissure in Ano
+1908	Cerebellar Ataxia
+1909	Thyroiditis
+1910	Obesity
+1911	Exfoliation Syndrome
+1912	Chondromatosis, Synovial
+1913	Hematuria
+1914	Hyperammonemia
+1915	Pelvic Inflammatory Disease
+1916	Hearing Loss, Sudden
+1917	Tympanic Membrane Perforation
+1918	Sialorrhea
+1919	Asthma
+1920	Pulmonary Atresia
+1921	Lymphoma, Follicular
+1922	Myositis
+1923	Nephrosis, Lipoid
+1924	Muscular Dystrophy, Facioscapulohumeral
+1925	Polyuria
+1926	Hyperopia
+1927	Iron Overload
+1928	Dyskinesias
+1929	Mastocytosis
+1930	Temporomandibular Joint Dysfunction Syndrome
+1931	Leprosy, Lepromatous
+1932	Pregnancy Complications, Cardiovascular
+1933	Skin Diseases, Infectious
+1934	Thymoma
+1935	Meningitis, Viral
+1936	Factor V Deficiency
+1937	Central Nervous System Neoplasms
+1938	Hodgkin Disease
+1939	Peritonitis, Tuberculous
+1940	Blood Group Incompatibility
+1941	Cardiomyopathy, Dilated
+1942	Atrophy
+1943	Hypesthesia
+1944	Protein S Deficiency
+1945	Homocystinuria
+1946	Arachnidism
+1947	Hyperbilirubinemia
+1948	Leukodystrophy, Globoid Cell
+1949	Hearing Loss, Mixed Conductive-Sensorineural
+1950	Prediabetic State
+1951	Vasospasm, Intracranial
+1952	Fractures, Stress
+1953	Trigeminal Nerve Diseases
+1954	Adenocarcinoma, Papillary
+1955	Reye Syndrome
+1956	Rosacea
+1957	Nasal Obstruction
+1958	Trichinellosis
+1959	Tooth Avulsion
+1960	Parathyroid Neoplasms
+1961	Hashimoto Disease
+1962	Central Nervous System Cysts
+1963	Hernia, Hiatal
+1964	Hemangiosarcoma
+1965	Epididymitis
+1966	Situs Inversus
+1967	Granular Cell Tumor
+1968	Neuromyelitis Optica
+1969	Sexually Transmitted Diseases
+1970	Language Development Disorders
+1971	Migraine Disorders
+1972	Osteoma
+1973	Dysthymic Disorder
+1974	Rhinitis, Allergic, Perennial
+1975	Food Hypersensitivity
+1976	Epilepsy, Complex Partial
+1977	Arteriovenous Fistula
+1978	Tuberculosis, Lymph Node
+1979	Pelvic Neoplasms
+1980	Cranial Nerve Injuries
+1981	Gastrointestinal Stromal Tumors
+1982	Huntington Disease
+1983	Toxoplasmosis, Cerebral
+1984	Carcinoma, Transitional Cell
+1985	Urinary Retention
+1986	Neoplasms, Multiple Primary
+1987	Epilepsy, Reflex
+1988	Brain Diseases, Metabolic
+1989	Vulvar Neoplasms
+1990	Stomach Rupture
+1991	Nematode Infections
+1992	Lysosomal Storage Diseases
+1993	Serotonin Syndrome
+1994	Brown-Sequard Syndrome
+1995	Toxoplasmosis, Animal
+1996	Genetic Predisposition to Disease
+1997	Pneumothorax
+1998	Duane Retraction Syndrome
+1999	Hirsutism
+2000	Dermatomyositis
+2001	Anemia, Sideroblastic
+2002	Plaque, Atherosclerotic
+2003	Puberty, Delayed
+2004	Orbital Pseudotumor
+2005	Foodborne Diseases
+2006	Arthritis, Rheumatoid
+2007	Sinus Thrombosis, Intracranial
+2008	Thyrotoxicosis
+2009	Infection
+2010	Isaacs Syndrome
+2011	Deglutition Disorders
+2012	Urinary Tract Infections
+2013	Dystocia
+2014	Syndactyly
+2015	Adjustment Disorders
+2016	Burns
+2017	Croup
+2018	Astigmatism
+2019	Anemia, Hemolytic, Congenital
+2020	Headache
+2021	Equinus Deformity
+2022	Brain Diseases, Metabolic, Inborn
+2023	Rhinoscleroma
+2024	Schizophrenia
+2025	Confusion
+2026	Adenoma, Pleomorphic
+2027	Osteochondrodysplasias
+2028	Spinal Cord Neoplasms
+2029	Kidney Diseases, Cystic
+2030	Hip Dislocation, Congenital
+2031	Arrhythmia, Sinus
+2032	Femoral Neuropathy
+2033	Scrub Typhus
+2034	Bronchial Diseases
+2035	Hemiplegia
+2036	Colorectal Neoplasms
+2037	Stomatitis, Aphthous
+2038	Cavernous Sinus Thrombosis
+2039	Ovarian Neoplasms
+2040	Tinnitus
+2041	Paralysis
+2042	Pancreatic Neoplasms
+2043	Epiretinal Membrane
+2044	Fetal Alcohol Syndrome
+2045	Foreign-Body Migration
+2046	Leukemia, Lymphoid
+2047	alpha-Mannosidosis
+2048	Fragile X Syndrome
+2049	Agranulocytosis
+2050	Hypersensitivity
+2051	Affective Disorders, Psychotic
+2052	Dengue
+2053	Hyperprolactinemia
+2054	Galactosemias
+2055	Musculoskeletal Abnormalities
+2056	Placenta Diseases
+2057	HIV Wasting Syndrome
+2058	Pneumonia, Mycoplasma
+2059	Bone Neoplasms
+2060	Pyelonephritis
+2061	Mammary Neoplasms, Experimental
+2062	Paralyses, Familial Periodic
+2063	Synovitis
+2064	Malaria, Vivax
+2065	Carbon Monoxide Poisoning
+2066	Eye Injuries, Penetrating
+2067	Alkaptonuria
+2068	Atrial Flutter
+2069	Catalepsy
+2070	Fibromyalgia
+2071	Endophthalmitis
+2072	Tolosa-Hunt Syndrome
+2073	Sigmoid Neoplasms
+2074	Ear Neoplasms
+2075	Behcet Syndrome
+2076	Xerophthalmia
+2077	Pyelonephritis, Xanthogranulomatous
+2078	Cytomegalovirus Retinitis
+2079	Mucopolysaccharidosis I
+2080	Osteoporosis
+2081	Obesity, Morbid
+2082	Foot Ulcer
+2083	Vision Disorders
+2084	Gerstmann-Straussler-Scheinker Disease
+2085	Skull Fractures
+2086	Mycosis Fungoides
+2087	Mumps
+2088	Bruxism
+2089	Stomach Neoplasms
+2090	Back Injuries
+2091	Rectal Fistula
+2092	Cleft Lip
+2093	Thyroid Crisis
+2094	Lipidoses
+2095	Plasma Cell Granuloma, Pulmonary
+2096	Carcinoma, Ehrlich Tumor
+2097	De Lange Syndrome
+2098	Helminthiasis
+2099	Osteogenesis Imperfecta
+2100	Chondrodysplasia Punctata
+2101	Cardiovascular Abnormalities
+2102	Klebsiella Infections
+2103	Spinal Injuries
+2104	Meningitis, Bacterial
+2105	Muscular Dystrophies
+2106	Boutonneuse Fever
+2107	Ankle Injuries
+2108	Hyperemia
+2109	Amebiasis
+2110	Glycogen Storage Disease Type II
+2111	Asthma, Exercise-Induced
+2112	Periarthritis
+2113	Glomerulonephritis
+2114	Neuroma, Acoustic
+2115	AIDS-Related Opportunistic Infections
+2116	Skin Abnormalities
+2117	Tumor Virus Infections
+2118	Cleidocranial Dysplasia
+2119	Fanconi Anemia
+2120	Amnesia, Anterograde
+2121	Pregnancy Complications, Infectious
+2122	Echinococcosis, Hepatic
+2123	Vascular Fistula
+2124	Haemophilus Infections
+2125	Lupus Erythematosus, Discoid
+2126	Facial Neoplasms
+2127	Astrocytoma
+2128	Choroid Neoplasms
+2129	Ocular Motility Disorders
+2130	Respiratory Distress Syndrome, Adult
+2131	Immunoblastic Lymphadenopathy
+2132	Gallstones
+2133	Bronchiectasis
+2134	Common Bile Duct Diseases
+2135	Dermoid Cyst
+2136	Peripheral Nervous System Diseases
+2137	Hip Fractures
+2138	Galactorrhea
+2139	Eye Infections, Bacterial
+2140	Osteolysis, Essential
+2141	Rhinitis, Vasomotor
+2142	Tetanus
+2143	Neuralgia
+2144	Bites and Stings
+2145	Nystagmus, Congenital
+2146	Retinal Diseases
+2147	Tendinopathy
+2148	Empty Sella Syndrome
+2149	Paresthesia
+2150	Biliary Atresia
+2151	Synovitis, Pigmented Villonodular
+2152	Venous Thromboembolism
+2153	Sigmoid Diseases
+2154	Vascular Diseases
+2155	Jejunal Diseases
+2156	Adrenal Rest Tumor
+2157	Endocardial Fibroelastosis
+2158	Streptococcal Infections
+2159	Neuralgia, Postherpetic
+2160	Retroperitoneal Fibrosis
+2161	Gait Ataxia
+2162	Schizophrenia, Catatonic
+2163	Neurasthenia
+2164	Anemia
+2165	Nervous System Malformations
+2166	Ebstein Anomaly
+2167	Cystic Adenomatoid Malformation of Lung, Congenital
+2168	Periapical Abscess
+2169	Paraparesis
+2170	Autonomic Dysreflexia
+2171	Blast Injuries
+2172	Multiple Chemical Sensitivity
+2173	HIV Infections
+2174	Hematologic Neoplasms
+2175	Pneumoperitoneum
+2176	Dystonic Disorders
+2177	Listeriosis
+2178	Breast Diseases
+2179	Apraxia, Ideomotor
+2180	Subcutaneous Emphysema
+2181	Trichotillomania
+2182	Glucose Intolerance
+2183	Infarction, Anterior Cerebral Artery
+2184	Neuroleptic Malignant Syndrome
+2185	Pregnancy Complications, Neoplastic
+2186	Histiocytosis, Non-Langerhans-Cell
+2187	Cholangitis, Sclerosing
+2188	Herpes Simplex
+2189	Tachycardia, Ventricular
+2190	Pseudoxanthoma Elasticum
+2191	Osteosarcoma
+2192	Entamoebiasis
+2193	Atherosclerosis
+2194	Eczema
+2195	Respiratory Tract Fistula
+2196	Cardiomyopathy, Restrictive
+2197	Dyslexia
+2198	Dyskinesia, Drug-Induced
+2199	Velopharyngeal Insufficiency
+2200	Myoglobinuria
+2201	Meningocele
+2202	Fibrous Dysplasia, Polyostotic
+2203	Scleroderma, Localized
+2204	Salmonella Infections
+2205	Histiocytic Sarcoma
+2206	Trophoblastic Neoplasms
+2207	Thoracic Injuries
+2208	Keratoderma, Palmoplantar
+2209	Takayasu Arteritis
+2210	Cholestasis, Extrahepatic
+2211	Pelvic Organ Prolapse
+2212	Conjunctivitis, Allergic
+2213	Respiratory Syncytial Virus Infections
+2214	Oligodendroglioma
+2215	Atrioventricular Block
+2216	Mouth Abnormalities
+2217	Spherocytosis, Hereditary
+2218	Pancytopenia
+2219	Influenza, Human
+2220	Diabetes Insipidus
+2221	Epilepsy, Post-Traumatic
+2222	Infarction
+2223	Amyloidosis
+2224	Skin Diseases, Bacterial
+2225	Retroperitoneal Neoplasms
+2226	Prader-Willi Syndrome
+2227	Adenocarcinoma
+2228	Thyroid Neoplasms
+2229	Teratoma
+2230	Lymphoma, T-Cell
+2231	Corneal Ulcer
+2232	Rhinitis
+2233	Intestinal Perforation
+2234	Cutis Laxa
+2235	Blindness, Cortical
+2236	Headache Disorders, Primary
+2237	Exanthema Subitum
+2238	Multiple Sclerosis
+2239	Hyperglycemia
+2240	Bone Cysts
+2241	Osteitis
+2242	Prostatitis
+2243	Cochlear Diseases
+2244	Glomerulonephritis, Membranous
+2245	Asperger Syndrome
+2246	Chylothorax
+2247	Myxedema
+2248	Parasomnias
+2249	Cat-Scratch Disease
+2250	Tachycardia, Supraventricular
+2251	Borrelia Infections
+2252	Peroneal Neuropathies
+2253	Unconsciousness
+2254	Clostridium Infections
+2255	Urinary Bladder Neck Obstruction
+2256	Leigh Disease
+2257	Otitis Externa
+2258	Lymphangioleiomyomatosis
+2259	Decompression Sickness
+2260	Telangiectasis
+2261	Shy-Drager Syndrome
+2262	Herpesviridae Infections
+2263	Bradycardia
+2264	Focal Infection, Dental
+2265	Fatigue Syndrome, Chronic
+2266	Botulism
+2267	Labor Pain
+2268	Osteoarthritis, Knee
+2269	Sertoli Cell Tumor
+2270	Lupus Erythematosus, Cutaneous
+2271	Sarcoma, Myeloid
+2272	Venous Insufficiency
+2273	Mental Retardation
+2274	Auditory Diseases, Central
+2275	Cicatrix
+2276	Caliciviridae Infections
+2277	Renal Tubular Transport, Inborn Errors
+2278	Hepatitis C, Chronic
+2279	Aortic Arch Syndromes
+2280	Dwarfism, Pituitary
+2281	Chlamydia Infections
+2282	Kearns-Sayre Syndrome
+2283	Lipoma
+2284	Neoplasms, Radiation-Induced
+2285	Mediastinal Cyst
+2286	Anovulation
+2287	Blastomycosis
+2288	Cardiac Output, High
+2289	Dysgeusia
+2290	Hemochromatosis
+2291	Puerperal Disorders
+2292	Sleep Bruxism
+2293	Cystic Fibrosis
+2294	Acidosis, Lactic
+2295	Infant, Newborn, Diseases
+2296	Coronary Vasospasm
+2297	Vaginitis
+2298	Muscle Neoplasms
+2299	Mycobacterium Infections
+2300	Kartagener Syndrome
+2301	Retropharyngeal Abscess
+2302	Impulse Control Disorders
+2303	Dermatomycoses
+2304	Alexander Disease
+2305	Arthritis, Psoriatic
+2306	Adrenal Cortex Neoplasms
+2307	Purpura
+2308	Deficiency Diseases
+2309	Heat Exhaustion
+2310	Telangiectasia, Hereditary Hemorrhagic
+2311	Leiomyomatosis
+2312	Epidermolysis Bullosa
+2313	Coronary Occlusion
+2314	Headache Disorders, Secondary
+2315	Splenic Rupture
+2316	Pleural Effusion
+2317	Carcinoma, Non-Small-Cell Lung
+2318	Hypospadias
+2319	Hyperemesis Gravidarum
+2320	Hereditary Sensory and Motor Neuropathy
+2321	Panic Disorder
+2322	Lymphoma, Non-Hodgkin
+2323	Maxillary Sinus Neoplasms
+2324	Muscular Atrophy, Spinal
+2325	Scoliosis
+2326	Heart Defects, Congenital
+2327	Amenorrhea
+2328	Asphyxia Neonatorum
+2329	Delirium, Dementia, Amnestic, Cognitive Disorders
+2330	Achlorhydria
+2331	Diverticulum, Stomach
+2332	Tarsal Tunnel Syndrome
+2333	Urinary Incontinence
+2334	Tooth Injuries
+2335	Mitochondrial Encephalomyopathies
+2336	Starvation
+2337	Frontotemporal Dementia
+2338	Mucositis
+2339	Sleep Paralysis
+2340	Iridocyclitis
+2341	Abscess
+2342	Attention Deficit Disorder with Hyperactivity
+2343	Pneumonia, Pneumocystis
+2344	Cryptogenic Organizing Pneumonia
+2345	Maxillary Diseases
+2346	Enterobiasis
+2347	Congenital Hypothyroidism
+2348	Cadmium Poisoning
+2349	AIDS Dementia Complex
+2350	Tongue Neoplasms
+2351	Polymyositis
+2352	Hearing Loss, Conductive
+2353	Facial Pain
+2354	Menstruation Disturbances
+2355	Arteriosclerosis
+2356	Pseudohypoparathyroidism
+2357	Hemopneumothorax
+2358	Hemangiopericytoma
+2359	Popliteal Cyst
+2360	Subclavian Steal Syndrome
+2361	Manganese Poisoning
+2362	Skull Neoplasms
+2363	Uterine Cervical Neoplasms
+2364	Hepatitis E
+2365	Toxemia
+2366	Adnexal Diseases
+2367	Leg Ulcer
+2368	Stuttering
+2369	Infratentorial Neoplasms
+2370	Constriction, Pathologic
+2371	Refsum Disease
+2372	Gastroenteritis
+2373	Swayback
+2374	Blind Loop Syndrome
+2375	Bronchiolitis Obliterans
+2376	Hepatitis, Viral, Human
+2377	Prion Diseases
+2378	Intraoperative Complications
+2379	Tachycardia, Atrioventricular Nodal Reentry
+2380	Tuberculosis, Spinal
+2381	Thrombocytosis
+2382	Purpura, Schoenlein-Henoch
+2383	Paraneoplastic Syndromes
+2384	Optic Nerve Neoplasms
+2385	Gas Gangrene
+2386	Cutaneous Fistula
+2387	Carcinoma, Lewis Lung
+2388	Lymphoma, B-Cell, Marginal Zone
+2389	Tuberculosis, Pulmonary
+2390	Albinism, Ocular
+2391	Elephantiasis, Filarial
+2392	Psychoses, Substance-Induced
+2393	Vitamin B Deficiency
+2394	Alcoholism
+2395	Hernia, Umbilical
+2396	Vitamin B 12 Deficiency
+2397	Depressive Disorder
+2398	Asphyxia
+2399	Heat Stress Disorders
+2400	Anus Neoplasms
+2401	Beriberi
+2402	Chromosome Aberrations
+2403	Angina, Unstable
+2404	Heart Septal Defects
+2405	Mastocytosis, Systemic
+2406	Hepatitis C
+2407	Hepatitis A
+2408	Hepatitis B
+2409	Neurofibroma
+2410	Acquired Hyperostosis Syndrome
+2411	Granuloma
+2412	Malaria, Falciparum
+2413	Rectal Prolapse
+2414	Somatosensory Disorders
+2415	Mucopolysaccharidoses
+2416	Pneumonia, Lipid
+2417	Oral Hemorrhage
+2418	Urinary Bladder Neoplasms
+2419	Optic Disk Drusen
+2420	Sjogren's Syndrome
+2421	Gait Disorders, Neurologic
+2422	Tendon Injuries
+2423	Scimitar Syndrome
+2424	Laryngitis
+2425	Schistosomiasis mansoni
+2426	Osteopetrosis
+2427	Takotsubo Cardiomyopathy
+2428	Aniseikonia
+2429	Eclampsia
+2430	Aniridia
+2431	Craniomandibular Disorders
+2432	Urogenital Neoplasms
+2433	Endotoxemia
+2434	Acute Lung Injury
+2435	Drug Eruptions
+2436	Lymphomatoid Granulomatosis
+2437	Zygomatic Fractures
+2438	Breech Presentation
+2439	Tongue Diseases
+2440	Sleep Disorders
+2441	Neurogenic Inflammation
+2442	Sleep Apnea, Obstructive
+2443	Williams Syndrome
+2444	Contracture
+2445	Speech Disorders
+2446	Cheilitis
+2447	Epistaxis
+2448	Infarction, Posterior Cerebral Artery
+2449	Eye Hemorrhage
+2450	Varicose Veins
+2451	Neuroendocrine Tumors
+2452	Brain Ischemia
+2453	Pneumonia
+2454	Retinal Artery Occlusion
+2455	Enterovirus Infections
+2456	Mushroom Poisoning
+2457	Embolism, Amniotic Fluid
+2458	Nasopharyngeal Diseases
+2459	Focal Infection
+2460	Rhabdomyolysis
+2461	Adenovirus Infections, Human
+2462	Esophageal Stenosis
+2463	Hernia
+2464	Schistosomiasis
+2465	Leukemia, Monocytic, Acute
+2466	Mouth Breathing
+2467	Wounds, Stab
+2468	Hepatomegaly
+2469	Syphilis
+2470	Thoracic Neoplasms
+2471	Endolymphatic Hydrops
+2472	Lyme Disease
+2473	Jaw Diseases
+2474	Apraxias
+2475	Lyme Neuroborreliosis
+2476	Soft Tissue Injuries
+2477	Urinary Incontinence, Stress
+2478	Leukemia-Lymphoma, Adult T-Cell
+2479	Amnesia, Transient Global
+2480	Erythroblastosis, Fetal
+2481	Spinal Osteophytosis
+2482	Tracheitis
+2483	Hantavirus Infections
+2484	Granuloma, Laryngeal
+2485	Multiple System Atrophy
+2486	Articulation Disorders
+2487	Psychotic Disorders
+2488	Histiocytoma, Benign Fibrous
+2489	Aneurysm, Infected
+2490	Branchioma
+2491	Supratentorial Neoplasms
+2492	Keratosis
+2493	Kidney Diseases
+2494	Varicose Ulcer
+2495	Carcinoma
+2496	Infant, Premature, Diseases
+2497	Anterior Compartment Syndrome
+2498	Carotid Artery Injuries
+2499	Hemorrhagic Disorders
+2500	Nail-Patella Syndrome
+2501	Vitamin A Deficiency
+2502	Hernia, Obturator
+2503	Trismus
+2504	Laurence-Moon Syndrome
+2505	Addison Disease
+2506	Gingival Hyperplasia
+2507	Lymphatic Diseases
+2508	Thrombasthenia
+2509	Gaucher Disease
+2510	Branchio-Oto-Renal Syndrome
+2511	Mandibular Neoplasms
+2512	Amputation, Traumatic
+2513	Pancreatitis
+2514	Neck Injuries
+2515	Head and Neck Neoplasms
+2516	Holoprosencephaly
+2517	Adenoviridae Infections
+2518	Pancreatic Cyst
+2519	Putaminal Hemorrhage
+2520	Brain Stem Infarctions
+2521	Hyperostosis, Diffuse Idiopathic Skeletal
+2522	Kleine-Levin Syndrome
+2523	Milk Hypersensitivity
+2524	Fibrosis
+2525	Skin Neoplasms
+2526	Scleroderma, Systemic
+2527	Protozoan Infections
+2528	Vasculitis, Central Nervous System
+2529	Mammary Neoplasms, Animal
+2530	Glaucoma
+2531	Respirovirus Infections
+2532	Corneal Edema
+2533	Acromegaly
+2534	Fractures, Bone
+2535	Exostoses
+2536	Protein-Energy Malnutrition
+2537	Consciousness Disorders
+2538	Pruritus
+2539	Xerostomia
+2540	Near Drowning
+2541	Ganglioneuroma
+2542	Tuberculosis, Renal
+2543	Retinal Vasculitis
+2544	Anaphylaxis
+2545	Anorexia Nervosa
+2546	Meningitis, Cryptococcal
+2547	Wolfram Syndrome
+2548	Lip Diseases
+2549	Pleurisy
+2550	Protein Deficiency
+2551	Craniocerebral Trauma
+2552	Tracheal Diseases
+2553	Hydrops Fetalis
+2554	Alcohol-Induced Disorders, Nervous System
+2555	Anisocoria
+2556	Pneumoconiosis
+2557	Psoriasis
+2558	Choledocholithiasis
+2559	Metabolism, Inborn Errors
+2560	Liver Abscess, Amebic
+2561	Budd-Chiari Syndrome
+2562	von Hippel-Lindau Disease
+2563	Discitis
+2564	Cecal Neoplasms
+2565	Epilepsies, Partial
+2566	Glossitis
+2567	Potassium Deficiency
+2568	Otitis Media, Suppurative
+2569	Scheuermann Disease
+2570	Granulomatous Disease, Chronic
+2571	Chondroma
+2572	Retinal Detachment
+2573	Simian Acquired Immunodeficiency Syndrome
+2574	Spinal Stenosis
+2575	Salivary Gland Diseases
+2576	Spinal Cord Ischemia
+2577	Spinal Cord Compression
+2578	Granuloma, Respiratory Tract
+2579	Fecal Incontinence
+2580	Intracranial Embolism and Thrombosis
+2581	Macular Degeneration
+2582	Postoperative Hemorrhage
+2583	Abducens Nerve Injury
+2584	Gingival Hemorrhage
+2585	Liver Failure, Acute
+2586	Ischemic Attack, Transient
+2587	Pick Disease of the Brain
+2588	Cocaine-Related Disorders
+2589	Exotropia
+2590	Surgical Wound Infection
+2591	Charcot-Marie-Tooth Disease
+2592	Arteritis
+2593	Immunologic Deficiency Syndromes
+2594	Parathyroid Diseases
+2595	Poliomyelitis
+2596	Sprue, Tropical
+2597	Diverticulum
+2598	Dermatitis, Irritant
+2599	Nasopharyngeal Neoplasms
+2600	Niemann-Pick Diseases
+2601	Polyendocrinopathies, Autoimmune
+2602	Eye Diseases, Hereditary
+2603	Pregnancy Complications, Hematologic
+2604	Urticaria
+2605	Pinealoma
+2606	Meckel Diverticulum
+2607	Nephrolithiasis
+2608	Thyroid Diseases
+2609	Chagas Disease
+2610	Staphylococcal Infections
+2611	Aphonia
+2612	Exophthalmos
+2613	Pellagra
+2614	Diverticulitis
+2615	Muscle Cramp
+2616	Colitis
+2617	Carcinoma, Hepatocellular
+2618	Colonic Diseases
+2619	Attention Deficit and Disruptive Behavior Disorders
+2620	Hemoglobinopathies
+2621	Malabsorption Syndromes
+2622	Hypoxia, Brain
+2623	Biliary Tract Diseases
+2624	Hypoproteinemia
+2625	Polymyalgia Rheumatica
+2626	Pituitary Diseases
+2627	Hernia, Inguinal
+2628	Metabolic Syndrome X
+2629	Flatfoot
+2630	Leukoplakia
+2631	Leukemia, Myeloid, Acute
+2632	Necrosis
+2633	Candidiasis, Oral
+2634	Goiter
+2635	Polydactyly
+2636	Spondylitis, Ankylosing
+2637	Lacrimal Apparatus Diseases
+2638	Genetic Diseases, X-Linked
+2639	Epilepsia Partialis Continua
+2640	Snake Bites
+2641	Malocclusion, Angle Class III
+2642	Myelodysplastic Syndromes
+2643	Infarction, Middle Cerebral Artery
+2644	Pregnancy, Abdominal
+2645	Chondrocalcinosis
+2646	Hypovolemia
+2647	Lentigo
+2648	Chickenpox
+2649	Femoral Fractures
+2650	Erythema Multiforme
+2651	Infectious Mononucleosis
+2652	Low Back Pain
+2653	Marijuana Abuse
+2654	Diabetic Neuropathies
+2655	Hydronephrosis
+2656	Hemorrhagic Fever with Renal Syndrome
+2657	Puerperal Infection
+2658	Myoclonic Epilepsies, Progressive
+2659	Herpes Zoster Ophthalmicus
+2660	Trauma, Nervous System
+2661	Mucocutaneous Lymph Node Syndrome
+2662	Rabies
+2663	Nevus, Pigmented
+2664	Arachnoiditis
+2665	Gallbladder Neoplasms
+2666	Sjogren-Larsson Syndrome
+2667	Kidney Tubular Necrosis, Acute
+2668	Facial Nerve Diseases
+2669	Bone Diseases
+2670	Myelitis
+2671	Antiphospholipid Syndrome
+2672	Dengue Hemorrhagic Fever
+2673	Disease
+2674	Primary Dysautonomias
+2675	Eosinophilic Granuloma
+2676	Rhinitis, Allergic, Seasonal
+2677	Corneal Dystrophies, Hereditary
+2678	Optic Neuritis
+2679	Catatonia
+2680	Intracranial Arteriosclerosis
+2681	Mitochondrial Diseases
+2682	Hypertension, Renal
+2683	Carpal Tunnel Syndrome
+2684	Adie Syndrome
+2685	Pasteurella Infections
+2686	Eisenmenger Complex
+2687	Pregnancy in Diabetics
+2688	Sleep Apnea, Central
+2689	Osteoma, Osteoid
+2690	Borderline Personality Disorder
+2691	Intracranial Hypertension
+2692	Cystadenoma
+2693	Epstein-Barr Virus Infections
+2694	Hypocalcemia
+2695	Carcinoma, Bronchogenic
+2696	Appendicitis
+2697	Strongyloidiasis
+2698	Arthropathy, Neurogenic
+2699	Alveolitis, Extrinsic Allergic
+2700	Thrombophilia
+2701	Callosities
+2702	Nocturnal Enuresis
+2703	Penile Diseases
+2704	Paraneoplastic Syndromes, Nervous System
+2705	Retinoblastoma
+2706	Respiratory Insufficiency
+2707	Splenomegaly
+2708	Hyperparathyroidism, Secondary
+2709	Kyphosis
+2710	Hearing Loss, Bilateral
+2711	Primary Myelofibrosis
+2712	Dry Eye Syndromes
+2713	Long QT Syndrome
+2714	Rhabdomyosarcoma
+2715	Nasal Polyps
+2716	Bartter Syndrome
+2717	Syphilis, Congenital
+2718	Aphakia, Postcataract
+2719	Pituitary ACTH Hypersecretion
+2720	Glomerulonephritis, Membranoproliferative
+2721	Migraine without Aura
+2722	Sleep Disorders, Circadian Rhythm
+2723	Panniculitis, Peritoneal
+2724	Scurvy
+2725	Amnesia, Retrograde
+2726	Motor Skills Disorders
+2727	Alcohol Withdrawal Delirium
+2728	Pericarditis, Constrictive
+2729	Iris Diseases
+2730	Hemangioblastoma
+2731	Dyspareunia
+2732	Hypersensitivity, Delayed
+2733	Ectromelia
+2734	Proteus Infections
+2735	Glomus Tumor
+2736	Ocular Hypertension
+2737	Cholesteatoma
+2738	Legionnaires' Disease
+2739	Kidney Calculi
+2740	Precancerous Conditions
+2741	Urinary Incontinence, Urge
+2742	Colonic Neoplasms
+2743	Persistent Fetal Circulation Syndrome
+2744	Hirschsprung Disease
+2745	Sciatic Neuropathy
